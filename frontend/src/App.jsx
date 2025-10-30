@@ -1,13 +1,19 @@
-import React from "react";
-import LoginSignup from './components/LoginSignup/LoginSignup';
-import './App.css';
-function App() {
+import React, { useState } from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import LandingPage from "./components/Landing/Landing";
+import Auth from "./components/Auth/Auth";
+
+const App = () => {
+  const [theme, setTheme] = useState("dark");
 
   return (
-    <div>
-      <LoginSignup />
-    </div>
-  )
-}
+    <Router>
+      <Routes>
+        <Route path="/" element={<LandingPage theme={theme} setTheme={setTheme} />} />
+        <Route path="/auth" element={<Auth />} />
+      </Routes>
+    </Router>
+  );
+};
 
-export default App
+export default App;
