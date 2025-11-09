@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import assets, { teamData, testi_1, testi_2, testi_3, testi_4, badge_secure } from "../../assets/assets";
- import { startParticles } from "../../utils/particles";
 import { FaBrain, FaChartLine, FaWallet } from "react-icons/fa";
 import { AiOutlineCheckCircle, AiOutlineRocket, AiOutlinePieChart, AiFillNotification } from "react-icons/ai";
 import { FiRepeat, FiClock, FiTarget } from "react-icons/fi";
@@ -175,10 +174,6 @@ const Contact = () => {
 
 // Main LandingPage Component
 export default function LandingPage({ theme, setTheme }) {
-  useEffect(() => {
-    const stop = startParticles();
-    return () => stop && stop();
-  }, []);
 
   return (
     <div className="relative overflow-x-hidden">
@@ -217,7 +212,7 @@ export default function LandingPage({ theme, setTheme }) {
 
     <div className="mt-8 flex items-center justify-center gap-4">
       <a
-        href="#contact-us"
+        href="/auth"
         className="glow-btn bg-primary text-white/80 px-4 py-3 rounded-full border border-white/10 font-normal shadow-lg hover:bg-white/10 transition"
       >
         Get Started — Free
