@@ -172,21 +172,17 @@ const Contact = () => {
   );
 };
 
-// Main LandingPage Component
 export default function LandingPage({ theme, setTheme }) {
 
   return (
     <div className="relative overflow-x-hidden">
       <Navbar theme={theme} setTheme={setTheme} />
       
-      {/* Animated background blobs + particles */}
       <div className="absolute inset-0 -z-10">
         <div className="absolute inset-0 bg-gradient-to-b from-black via-[#07020b] to-black" />
         <div className="absolute -left-96 -top-40 w-[66rem] h-[66rem] rounded-full blur-[220px] opacity-30 bg-gradient-to-r from-violet-600 to-cyan-400 animate-slow-blob"></div>
         <div className="absolute right-[-22rem] top-10 w-[50rem] h-[50rem] rounded-full blur-[200px] opacity-20 bg-gradient-to-tr from-pink-500 to-indigo-600 animate-slow-blob-2"></div>
-        {/* <div className="absolute inset-0 pointer-events-none">
-          <canvas id="particle-canvas" className="w-full h-full" />
-        </div> */}
+       
       </div>
 
 {/* Hero */}
@@ -234,13 +230,29 @@ export default function LandingPage({ theme, setTheme }) {
     </div>
   </motion.div>
 
-  {/* ✅ Hero Image with Lighting Effect */}
   <div className="relative mt-16 flex justify-center">
     <img
       src={assets.optifi_hero}
       alt="Optifi Hero"
       className="w-full max-w-3xl mx-auto rounded-2xl relative z-10 shadow-1xl shadow-cyan-900/30"
     />
+  <div
+    className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[120%] h-[200px] z-30 pointer-events-none rounded-b-2xl"
+    style={{
+      background: "linear-gradient(to top, #0F172A 0%, rgba(15,23,42,1) 45%, transparent 50%)",
+      filter: "blur(48px)",
+      opacity: 1,
+    }}
+  />
+  
+  <div
+    className="absolute bottom-6 left-1/2 -translate-x-1/2 w-[80%] h-[44px] z-40 pointer-events-none rounded-full"
+    style={{
+      background: "linear-gradient(90deg, rgba(56,189,248,0.18), rgba(139,92,246,0.16), rgba(6,182,212,0.18))",
+      filter: "blur(40px)",
+      opacity: 0.8,
+    }}
+  />
    
   </div>
 </header>
@@ -251,12 +263,9 @@ export default function LandingPage({ theme, setTheme }) {
   id="why"
   className="relative py-24 px-6 sm:px-12 lg:px-32 overflow-hidden bg-gradient-to-b from-[#0F172A] via-[#111C2E] to-[#0A1120]"
 >
-  {/* Soft Blue-Purple Gradient Glow */}
   <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[70%] h-[400px] bg-gradient-to-r from-[#6366F1]/30 via-[#8B5CF6]/20 to-[#06B6D4]/20 blur-[180px] rounded-full"></div>
 
-  {/* Content Grid */}
   <div className="relative z-10 grid lg:grid-cols-2 gap-12 items-center">
-    {/* Left Text */}
     <div className="text-left space-y-6">
       <motion.h2
         initial={{ opacity: 0, y: 30 }}
@@ -323,7 +332,6 @@ export default function LandingPage({ theme, setTheme }) {
 
    {/* HOW OPTIFI WORKS — USER JOURNEY */}
 <section className="relative py-28 px-6 sm:px-12 lg:px-24 bg-gradient-to-b from-[#0F172A] via-[#111C2E] to-[#0F172A] overflow-hidden">
-  {/* Decorative gradient glow */}
   <div className="absolute inset-0 -z-10 opacity-50 bg-[radial-gradient(circle_at_50%_30%,rgba(99,102,241,0.25),transparent_70%)]" />
 
   {/* Section Header */}
@@ -410,18 +418,18 @@ export default function LandingPage({ theme, setTheme }) {
   </div>
 </section>
 
-{/* 🌌 FEATURES SECTION (Full Width + Soft Glow) */}
+{/*  FEATURES SECTION (Full Width + Soft Glow) */}
 <section
   id="features"
   className="relative w-full py-24 px-6 sm:px-12 lg:px-20 bg-gradient-to-b from-[#0F172A] via-[#0F172A] to-[#0A1120] overflow-hidden"
 >
-  {/* ✨ Subtle Background Lighting */}
+  {/*  Subtle Background Lighting */}
   <div className="absolute inset-0 pointer-events-none">
     <div className="absolute top-0 left-1/3 w-[300px] h-[300px] bg-[#6366F1]/10 blur-[120px] rounded-full"></div>
     <div className="absolute bottom-0 right-1/3 w-[250px] h-[250px] bg-[#06B6D4]/8 blur-[100px] rounded-full"></div>
   </div>
 
-  {/* 🌟 Section Header */}
+  {/*  Section Header */}
   <div className="relative text-center mb-16 z-10">
     <h2 className="text-4xl sm:text-5xl font-bold mb-4 bg-gradient-to-r from-[#6366F1]  to-[#06B6D4] bg-clip-text text-transparent">
       Powerful Features
@@ -472,14 +480,14 @@ export default function LandingPage({ theme, setTheme }) {
     />
   </div>
 
-  {/* 💬 Footer Tagline */}
+  {/*  Footer Tagline */}
   <h3 className="relative text-xl sm:text-2xl font-medium mt-20 text-[#F1F5F9] text-center z-10">
     Let <span className="text-[#06B6D4] font-semibold">AI</span> handle your money insights.
   </h3>
 </section>
 
 
-      {/* ⚙️ FOLD 4 — OptiFi Dashboard Preview */}
+      {/*  FOLD 4 — OptiFi Dashboard Preview */}
       <section className="relative w-full bg-[#0B1120] py-28 px-6 sm:px-12 lg:px-24 overflow-hidden text-gray-300">
         {/* Background gradients */}
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[700px] h-[700px] bg-cyan-500/10 rounded-full blur-[180px]"></div>
@@ -544,7 +552,7 @@ export default function LandingPage({ theme, setTheme }) {
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[700px] h-[700px] bg-[#3B82F6]/10 blur-[180px] rounded-full"></div>
 
         <div className="relative z-10 max-w-6xl mx-auto flex flex-col items-center text-center space-y-16">
-          {/* 🗣️ Top: Testimonials */}
+          {/*  Top: Testimonials */}
           <div>
             <h2 className="text-4xl sm:text-5xl font-bold text-white">
               Loved by Early Users,{" "}
@@ -602,7 +610,7 @@ export default function LandingPage({ theme, setTheme }) {
           </div>
           </div>
           </section>
-{/* 🌙 FINAL SECTION — FAQ + CONTACT + FOOTER */}
+{/*  FINAL SECTION — FAQ + CONTACT + FOOTER */}
 <section
   id="faq-contact"
   className="relative w-full bg-gradient-to-b from-[#0F172A] via-[#1E1E2A] to-[#0A1120] overflow-hidden py-28 px-6 sm:px-12 lg:px-24"
@@ -613,7 +621,7 @@ export default function LandingPage({ theme, setTheme }) {
     <div className="absolute bottom-0 right-1/4 w-[300px] h-[300px] bg-[#06B6D4]/10 blur-[120px] rounded-full" />
   </div>
 
-  {/* 🧭 FAQ Section */}
+  {/*  FAQ Section */}
   <div className="relative max-w-4xl mx-auto text-center z-10">
     <motion.h2
       initial={{ opacity: 0, y: 20 }}
@@ -656,7 +664,7 @@ export default function LandingPage({ theme, setTheme }) {
     </div>
   </div>
 
-  {/* 💌 CONTACT SECTION */}
+  {/*  CONTACT SECTION */}
   <motion.div
     initial={{ opacity: 0, y: 40 }}
     whileInView={{ opacity: 1, y: 0 }}
@@ -707,7 +715,7 @@ export default function LandingPage({ theme, setTheme }) {
     </form>
   </motion.div>
 
-  {/* 🌌 Footer */}
+  {/*  Footer */}
   <footer className="relative mt-24 text-center border-t border-white/10 pt-8 z-10">
     <p className="text-sm text-[#94A3B8]">
       © {new Date().getFullYear()} <span className="text-[#8B5CF6] font-semibold">OptiFi</span>  All rights reserved.
