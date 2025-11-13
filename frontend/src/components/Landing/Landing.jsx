@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
+ import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import assets, { teamData, testi_1, testi_2, testi_3, testi_4, badge_secure } from "../../assets/assets";
+import { assets, teamData, testi_1, testi_2, testi_3, testi_4, badge_secure } from "../../assets/assets";
 import { FaBrain, FaChartLine, FaWallet } from "react-icons/fa";
 import { AiOutlineCheckCircle, AiOutlineRocket, AiOutlinePieChart, AiFillNotification } from "react-icons/ai";
 import { FiRepeat, FiClock, FiTarget } from "react-icons/fi";
@@ -177,12 +177,9 @@ export default function LandingPage({ theme, setTheme }) {
   return (
     <div className="relative overflow-x-hidden">
       <Navbar theme={theme} setTheme={setTheme} />
-      
+
       <div className="absolute inset-0 -z-10">
         <div className="absolute inset-0 bg-gradient-to-b from-black via-[#07020b] to-black" />
-        <div className="absolute -left-96 -top-40 w-[66rem] h-[66rem] rounded-full blur-[220px] opacity-30 bg-gradient-to-r from-violet-600 to-cyan-400 animate-slow-blob"></div>
-        <div className="absolute right-[-22rem] top-10 w-[50rem] h-[50rem] rounded-full blur-[200px] opacity-20 bg-gradient-to-tr from-pink-500 to-indigo-600 animate-slow-blob-2"></div>
-       
       </div>
 
 {/* Hero */}

@@ -168,3 +168,11 @@
   cursor: pointer;
   font-weight: 600;
 }
+
+/* ===== ERROR TEXT ===== */
+.error-text {
+  color: #ef4444;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+  text-align: center;
+}
