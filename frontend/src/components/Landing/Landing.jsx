@@ -1,6 +1,6 @@
- import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { assets, teamData, testi_1, testi_2, testi_3, testi_4, badge_secure } from "../../assets/assets";
+import { assets, testi_1, testi_2, testi_3, testi_4, badge_secure } from "../../assets/assets";
 import { FaBrain, FaChartLine, FaWallet } from "react-icons/fa";
 import { AiOutlineCheckCircle, AiOutlineRocket, AiOutlinePieChart, AiFillNotification } from "react-icons/ai";
 import { FiRepeat, FiClock, FiTarget } from "react-icons/fi";

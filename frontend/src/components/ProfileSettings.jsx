@@ -1,6 +1,6 @@
 // ProfileSettingsPage.jsx
 import React, { useState } from "react";
-import { FiEdit, FiCamera, FiShield, FiSave, FiUpload } from "react-icons/fi";
+import { FiEdit, FiCamera, FiSave, FiUpload } from "react-icons/fi";
 import { HiOutlineCheckCircle } from "react-icons/hi";
 
 export default function ProfileSettingsPage() {
