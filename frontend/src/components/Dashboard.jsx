@@ -4,9 +4,11 @@ import {
   FiBell,
   FiUser,
   FiSettings,
-  FiLogOut
+  FiLogOut,
 } from "react-icons/fi";
+import { Link, useLocation } from "react-router-dom";
 import CountUp from "react-countup";
+
 import Card from "./ui/Card";
 import LoadShimmer from "./ui/Loadshimmer";
 import { chartGradients } from "../utils/chartGradients";
@@ -14,15 +16,14 @@ import { useDashboardData } from "../hooks/useDashboardData";
 import { assets } from "../assets/assets";
 import profilePic from "../assets/group_profile.png";
 
-
-/* ✅ Lazy-loaded Charts */
+/* Lazy-loaded charts */
 const AreaChartSection = lazy(() => import("./charts/FinancialStats"));
 const BarChartSection = lazy(() => import("./charts/AIInsights"));
 
 export default function Dashboard() {
   const { data } = useDashboardData();
+  const location = useLocation();
 
-  // Fallback demo data
   const monthlyData = data?.monthlyData || [
     { month: "Jan", income: 4200, expenses: 3100 },
     { month: "Feb", income: 4800, expenses: 3400 },
@@ -38,118 +39,149 @@ export default function Dashboard() {
     { id: 3, merchant: "Zomato", category: "Food", amount: -12.4, time: "3d ago" },
   ];
 
-  const stats = useMemo(() => ({
-    balance: 9000.5,
-    income: 2450.5,
-    savings: 2000.7,
-    expenses: 290.1,
-  }), []);
+  const stats = useMemo(
+    () => ({
+      balance: 9000.5,
+      income: 2450.5,
+      savings: 2000.7,
+      expenses: 290.1,
+    }),
+    []
+  );
+
+  const navLinks = [
+    { name: "Dashboard", path: "/dashboard" },
+    { name: "Analytics", path: "/analytics" },
+    { name: "Goals", path: "/goals" },
+    { name: "Transactions", path: "/transactions" },
+    { name: "OptiBrain Insights", path: "/optibrain" }, // FIXED PATH
+    { name: "Profile", path: "/profile" },
+  ];
 
   return (
     <div className="min-h-screen bg-[#0F172A] text-[#F1F5F9] flex flex-col">
       <div className="grid grid-cols-12 gap-6 p-6">
 
-        {/* === Sidebar === */}
-        <aside className="col-span-2 bg-gradient-to-b from-[#4b6ff5]  to-[#06B6D4]  rounded-tr-3xl rounded-br-3xl p-6 sticky top-6 h-[calc(100vh-48px)] shadow-[inset_0_0_30px_rgba(0,0,0,0.2)] flex flex-col justify-between">
-          
-          {/* --- Logo Section --- */}
+        {/* ============ SIDEBAR ============ */}
+        <aside className="col-span-2 bg-gradient-to-b from-[#4b6ff5]  to-[#06B6D4]
+ rounded-tr-3xl rounded-br-3xl p-6 sticky top-6 h-[calc(100vh-48px)] shadow-[inset_0_0_30px_rgba(0,0,0,0.2)] flex flex-col justify-between">
+
+          {/* Logo */}
           <div>
-            <div className="flex items-center gap-1 mb-10">
+            <div className="flex items-center gap-2 mb-10">
               <img
                 src={assets.logo}
                 alt="OptiFi Logo"
-                className="w-20 h-20 drop-shadow-[1px_1px_1px_rgba(0,0,0,0.5)] hover:scale-105 transition-all duration-300"
+                className="w-20 h-20 drop-shadow-[1px_1px_1px_rgba(0,0,0,0.5)]"
               />
               <div>
-                <h1 className="font-bold text-lg text-white tracking-tight">OptiFi</h1> 
+                <h1 className="font-bold text-lg text-white tracking-tight">OptiFi</h1>
                 <p className="text-xs text-white/70">Personal Finance</p>
               </div>
             </div>
 
-            {/* --- Navigation Tabs --- */}
+            {/* Nav Links */}
             <nav className="space-y-3">
-              {["Dashboard", "Analytics", "Goals", "OptiBrain Insights"].map((tab, i) => (
-                <div
-                  key={tab}
-                  className={`flex items-center gap-3 px-4 py-2 rounded-full cursor-pointer transition-all duration-300 ${
-                    i === 0
+              {navLinks.map((item) => (
+                <Link
+                  key={item.path}
+                  to={item.path}
+                  className={`flex items-center gap-3 px-4 py-2 rounded-full transition-all duration-300 ${
+                    location.pathname === item.path
                       ? "bg-[#071030] text-white shadow-[0_0_15px_rgba(6,182,212,0.25)]"
                       : "text-white/80 hover:bg-white/10 hover:text-white"
                   }`}
                 >
-                  <FiUser /> <span className="text-sm">{tab}</span>
-                </div>
+                  <FiUser />
+                  <span className="text-sm">{item.name}</span>
+                </Link>
               ))}
             </nav>
           </div>
 
-          {/* --- Settings + Logout --- */}
+          {/* Settings + Logout */}
           <div className="space-y-3 pt-6 border-t border-white/20">
-            <div className="flex items-center gap-3 px-4 py-2 rounded-full cursor-pointer hover:bg-white/10 transition-all">
-              <FiSettings className="text-white/90" />
-              <span className="text-sm text-white/90">Settings</span>
-            </div>
-            <div className="flex items-center gap-3 px-4 py-2 rounded-full cursor-pointer hover:bg-white/10 transition-all">
-              <FiLogOut className="text-white/90" />
-              <span className="text-sm text-white/90">Logout</span>
-            </div>
+            <Link
+              to="/profile"
+              className="flex items-center gap-3 px-4 py-2 rounded-full hover:bg-white/10 transition"
+            >
+              <FiSettings />
+              <span className="text-sm">Settings</span>
+            </Link>
+
+            <Link
+              to="/auth"
+              className="flex items-center gap-3 px-4 py-2 rounded-full hover:bg-white/10 transition"
+            >
+              <FiLogOut />
+              <span className="text-sm">Logout</span>
+            </Link>
           </div>
         </aside>
 
-        {/* === Main Content === */}
+        {/* ============ MAIN CONTENT ============ */}
         <main className="col-span-10">
-          {/* --- Header --- */}
+
+          {/* Header */}
           <header className="flex items-center justify-between mb-8">
             <div>
               <h1 className="text-3xl font-extrabold tracking-tight">Dashboard</h1>
               <p className="text-sm text-[#94A3B8] mt-1">Welcome back, Anshi 👋</p>
             </div>
 
-            {/* --- Right-side Controls --- */}
+            {/* Right Controls */}
             <div className="flex items-center gap-4">
               <div className="relative">
                 <input
-                  className="bg-[#1E293B]/60 border border-white/5 rounded-full px-4 py-2 text-sm text-[#F1F5F9]/90 placeholder:text-[#94A3B8] focus:outline-none focus:ring-1 focus:ring-cyan-400"
+                  className="bg-[#1E293B]/60 border border-white/10 rounded-full px-4 py-2 text-sm focus:outline-none"
                   placeholder="Search..."
                 />
                 <FiSearch className="absolute right-3 top-2.5 text-[#94A3B8]" />
               </div>
-              <FiBell className="text-xl opacity-80 cursor-pointer hover:text-cyan-400 transition" />
+
+              <FiBell className="text-xl hover:text-cyan-400 transition" />
+
               <img
                 src={profilePic}
-                alt="Anshi Agarwal"
-                className="w-10 h-10 rounded-full border-2 border-cyan-400 hover:scale-105 transition-transform shadow-[0_0_15px_rgba(6,182,212,0.4)] object-cover"
+                className="w-10 h-10 rounded-full border-2 border-cyan-400 shadow-[0_0_10px_rgba(6,182,212,0.5)]"
+                alt=""
               />
             </div>
           </header>
 
-          {/* --- Stat Cards --- */}
+          {/* ============ STAT CARDS ============ */}
           <section className="grid grid-cols-4 gap-6 mb-8">
-            {[
-              { title: "Balance", value: stats.balance, color: "from-[#6366F1] to-[#06B6D4]" },
-              { title: "Income", value: stats.income, color: "from-[#22C55E] to-[#15803D]" },
-              { title: "Savings", value: stats.savings, color: "from-[#FACC15] to-[#FDE047]" },
-              { title: "Expenses", value: stats.expenses, color: "from-[#EF4444] to-[#B91C1C]" },
-            ].map((item) => (
-              <Card
-                key={item.title}
-                className={`bg-gradient-to-br ${item.color} p-5 text-white shadow-[0_10px_40px_rgba(6,182,212,0.15)] hover:shadow-[0_0_30px_rgba(6,182,212,0.25)] transition-all duration-300`}
-              >
-                <div className="text-sm opacity-90">{item.title}</div>
-                <div className="text-2xl font-bold mt-2">
-                  <CountUp end={item.value} decimals={2} prefix="$" separator="," />
-                </div>
-              </Card>
-            ))}
+            {[stats.balance, stats.income, stats.savings, stats.expenses].map(
+              (value, index) => (
+                <Card
+                  key={index}
+                  className="
+                    bg-[#1E293B]/40 border border-white/10 rounded-2xl p-5 
+                    transition-all duration-300
+                    hover:bg-gradient-to-br hover:from-[#4b6ff5]  hover:to-[#06B6D4]
+                    hover:shadow-[0_0_25px_rgba(127,124,255,0.55)]
+                  "
+                >
+
+                  <div className="text-sm text-[#CBD5E1]">
+                    {["Balance", "Income", "Savings", "Expenses"][index]}
+                  </div>
+                  <div className="text-2xl font-bold mt-2 text-white">
+                    <CountUp end={value} decimals={2} prefix="₹" separator="," />
+                  </div>
+                </Card>
+              )
+            )}
           </section>
 
-          {/* --- Charts --- */}
+          {/* ============ CHARTS ============ */}
           <section className="grid grid-cols-12 gap-6 mb-6">
             <div className="col-span-8">
               <Suspense fallback={<LoadShimmer height="320px" />}>
                 <AreaChartSection data={monthlyData} gradients={chartGradients} />
               </Suspense>
             </div>
+
             <div className="col-span-4">
               <Suspense fallback={<LoadShimmer height="280px" />}>
                 <BarChartSection />
@@ -157,19 +189,23 @@ export default function Dashboard() {
             </div>
           </section>
 
-          {/* --- Transactions --- */}
-          <section className="bg-[#1E293B]/60 rounded-2xl p-6 border border-white/5 shadow-[0_8px_30px_rgba(99,102,241,0.08)] backdrop-blur-xl">
+          {/* ============ TRANSACTIONS ============ */}
+          <section className="bg-[#1E293B]/60 rounded-2xl p-6 border border-white/10">
             <div className="flex items-center justify-between mb-4">
               <h3 className="text-lg font-semibold text-white">Recent Transactions</h3>
-              <button className="text-sm text-[#94A3B8] hover:text-cyan-400 transition">
+              <Link
+                to="/transactions"
+                className="text-sm text-[#94A3B8] hover:text-cyan-400"
+              >
                 View all
-              </button>
+              </Link>
             </div>
+
             <ul className="space-y-3">
               {transactions.map((t) => (
                 <li
                   key={t.id}
-                  className="flex items-center justify-between p-3 bg-[#0F172A]/60 rounded-lg border border-white/5 hover:border-cyan-500/20 transition-all"
+                  className="flex items-center justify-between p-3 bg-[#0F172A]/60 rounded-xl border border-white/10 hover:border-cyan-400/30 transition"
                 >
                   <div>
                     <div className="font-medium">{t.merchant}</div>
@@ -177,6 +213,7 @@ export default function Dashboard() {
                       {t.category} • {t.time}
                     </div>
                   </div>
+
                   <div
                     className={`text-sm font-semibold ${
                       t.amount < 0 ? "text-[#EF4444]" : "text-[#22C55E]"
@@ -188,6 +225,7 @@ export default function Dashboard() {
               ))}
             </ul>
           </section>
+
         </main>
       </div>
     </div>
