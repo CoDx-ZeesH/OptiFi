@@ -1,0 +1,11 @@
+id,username,email,phone,profile_picture,bio,is_premium,monthly_income,fixed_expenses,savings_goal,target_savings,preferred_budget_alert_limit,currency
+1,aarav_s,aarav.sharma@gmail.com,+91-9876543210,https://randomuser.me/api/portraits/men/45.jpg,"Tech enthusiast exploring personal finance.",False,15000,5000,"Save for a new laptop",30000,80,INR
+2,neha.verma,neha.verma23@gmail.com,+91-9988776655,https://randomuser.me/api/portraits/women/21.jpg,"Design student who loves budgeting.",True,25000,12000,"Build emergency fund",60000,70,INR
+3,viksingh,vikram.singh@gmail.com,+91-9090909090,https://randomuser.me/api/portraits/men/76.jpg,"Software dev learning finance.",False,45000,22000,"Down payment for bike",90000,85,INR
+4,riya_k,riya.kapoor@gmail.com,+91-9123456780,https://randomuser.me/api/portraits/women/34.jpg,"Marketing student, coffee addict.",False,18000,7000,"Save for solo trip",40000,75,INR
+5,rahul01,rahul.mehta01@gmail.com,+91-9811122233,https://randomuser.me/api/portraits/men/12.jpg,"Loves tracking expenses, hates spending.",True,52000,25000,"Invest in mutual funds",120000,65,INR
+6,tanya_raj,tanya.rajput@gmail.com,+91-9000012345,https://randomuser.me/api/portraits/women/56.jpg,"Finance beginner trying to be consistent.",False,30000,10000,"Save for new phone",35000,80,INR
+7,harsh_v,harsh.vardhan@gmail.com,+91-9666655554,https://randomuser.me/api/portraits/men/19.jpg,"Tech + fitness + minimalism.",False,40000,15000,"Build fitness fund",50000,90,INR
+8,sana_q,sana.qureshi@gmail.com,+91-9333399991,https://randomuser.me/api/portraits/women/28.jpg,"Lifestyle vlogger & student.",True,28000,9000,"Upgrade content setup",45000,70,INR
+9,anurag_dev,anurag.dev08@gmail.com,+91-9505050505,https://randomuser.me/api/portraits/men/84.jpg,"Part-time freelancer, full-time learner.",False,35000,12000,"Save for certification",20000,85,INR
+10,meera_j,meera.joshi@gmail.com,+91-9898989898,https://randomuser.me/api/portraits/women/90.jpg,"Trying to fix my spending habits.",False,22000,8000,"Create long-term savings",50000,75,INR

@@ -21,8 +21,39 @@ const AreaChartSection = lazy(() => import("./charts/FinancialStats"));
 const BarChartSection = lazy(() => import("./charts/AIInsights"));
 
 export default function Dashboard() {
+  const token = localStorage.getItem('access_token');
+  const backendUrl ="http://localhost:8000";
+  if (!token) {
+  console.log("No access token found — user probably not logged in");
+} else {
+  fetch(`${backendUrl}/api/users/profile/`, {
+    method: "GET",
+    headers: {
+      "Accept": "application/json",
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${token}`
+    }
+  })
+  .then(async response => {
+    if (response.ok) {
+      const data = await response.json();
+      console.log("profile:", data);
+    } else {
+      if (response.status === 401) {
+        console.error("Unauthorized — token missing or invalid/expired");
+      } else {
+        const text = await response.text();
+        console.error("Server returned", response.status, text);
+      }
+    }
+  })
+  .catch(err => {
+    console.error("Network or CORS error:", err);
+  });
+}
   const { data } = useDashboardData();
   const location = useLocation();
+
 
   const monthlyData = data?.monthlyData || [
     { month: "Jan", income: 4200, expenses: 3100 },
@@ -126,7 +157,7 @@ export default function Dashboard() {
           <header className="flex items-center justify-between mb-8">
             <div>
               <h1 className="text-3xl font-extrabold tracking-tight">Dashboard</h1>
-              <p className="text-sm text-[#94A3B8] mt-1">Welcome back, Anshi 👋</p>
+              <p className="text-sm text-[#94A3B8] mt-1">Welcome back, {data.username} 👋</p>
             </div>
 
             {/* Right Controls */}
