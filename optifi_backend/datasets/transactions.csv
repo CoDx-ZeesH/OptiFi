@@ -1,0 +1,201 @@
+id,user,date,description,amount,type,category,source,created_at
+1,1,2025-02-10,Monthly salary,23706.07,Income,Salary,OCR,2025-02-10
+2,1,2025-01-07,Metro recharge,783.02,Expense,Travel,OCR,2025-01-07
+3,1,2025-01-21,Snacks,259.49,Expense,Food,OCR,2025-01-21
+4,1,2025-02-04,Grocery shopping,1405.75,Expense,Groceries,Manual,2025-02-04
+5,1,2025-01-01,Dmart purchase,1067.35,Expense,Groceries,Manual,2025-01-01
+6,1,2025-01-10,Amazon purchase,477.74,Expense,Shopping,Manual,2025-01-10
+7,1,2025-02-02,Internet bill,212.17,Expense,Bills,Manual,2025-02-02
+8,1,2025-01-16,Arcade games,906.07,Expense,Entertainment,CSV,2025-01-16
+9,2,2025-01-16,Content editing payout,17971.28,Income,Freelance,Manual,2025-01-16
+10,2,2025-01-07,Monthly salary,23826.69,Income,Salary,OCR,2025-01-07
+11,2,2025-01-18,Monthly salary,21164.86,Income,Salary,CSV,2025-01-18
+12,2,2025-02-06,Bowling,175.79,Expense,Entertainment,Manual,2025-02-06
+13,2,2025-01-27,Myntra order,484.38,Expense,Shopping,OCR,2025-01-27
+14,2,2025-01-19,Metro recharge,798.23,Expense,Travel,OCR,2025-01-19
+15,2,2025-01-13,Milk & bread,223.3,Expense,Groceries,Manual,2025-01-13
+16,2,2025-01-04,Salary credited,4489.63,Income,Salary,CSV,2025-01-04
+17,3,2025-01-14,Salary credited,2374.3,Income,Salary,Manual,2025-01-14
+18,3,2025-01-01,Arcade games,406.37,Expense,Entertainment,CSV,2025-01-01
+19,3,2025-01-31,Content editing payout,25794.4,Income,Freelance,Manual,2025-01-31
+20,3,2025-01-08,Gas bill,802.35,Expense,Bills,OCR,2025-01-08
+21,3,2025-02-03,Dinner outside,850.4,Expense,Food,CSV,2025-02-03
+22,3,2025-01-07,Milk & bread,186.74,Expense,Groceries,Manual,2025-01-07
+23,3,2025-01-04,Arcade games,625.12,Expense,Entertainment,Manual,2025-01-04
+24,3,2025-02-07,Clothes shopping,1079.15,Expense,Shopping,OCR,2025-02-07
+25,4,2025-02-10,Salary credited,15272.45,Income,Salary,OCR,2025-02-10
+26,4,2025-01-30,Grocery shopping,128.16,Expense,Groceries,CSV,2025-01-30
+27,4,2025-01-13,Monthly salary,6191.79,Income,Salary,OCR,2025-01-13
+28,4,2025-01-01,Monthly salary,16593.84,Income,Salary,CSV,2025-01-01
+29,4,2025-01-18,Food delivery - Zomato,658.12,Expense,Food,Manual,2025-01-18
+30,4,2025-02-04,Snacks,375.71,Expense,Food,Manual,2025-02-04
+31,4,2025-01-10,Gas bill,985.36,Expense,Bills,Manual,2025-01-10
+32,4,2025-02-09,Bowling,779.36,Expense,Entertainment,Manual,2025-02-09
+33,5,2025-01-09,Clothes shopping,334.59,Expense,Shopping,Manual,2025-01-09
+34,5,2025-01-15,Arcade games,942.71,Expense,Entertainment,Manual,2025-01-15
+35,5,2025-01-21,Water bill,1009.45,Expense,Bills,OCR,2025-01-21
+36,5,2025-02-10,Dmart purchase,333.51,Expense,Groceries,Manual,2025-02-10
+37,5,2025-02-03,Cafe coffee,972.48,Expense,Food,CSV,2025-02-03
+38,5,2025-02-05,Water bill,844.93,Expense,Bills,OCR,2025-02-05
+39,5,2025-01-07,Clothes shopping,593.21,Expense,Shopping,CSV,2025-01-07
+40,5,2025-02-01,Monthly salary,26926.05,Income,Salary,OCR,2025-02-01
+41,6,2025-01-30,Auto fare,1306.7,Expense,Travel,Manual,2025-01-30
+42,6,2025-01-12,Grocery shopping,915.23,Expense,Groceries,CSV,2025-01-12
+43,6,2025-01-15,Food delivery - Zomato,70.91,Expense,Food,CSV,2025-01-15
+44,6,2025-02-04,Salary credited,29617.8,Income,Salary,Manual,2025-02-04
+45,6,2025-01-29,Salary credited,20912.39,Income,Salary,OCR,2025-01-29
+46,6,2025-02-04,Freelance work payment,3228.71,Income,Freelance,CSV,2025-02-04
+47,6,2025-01-07,Bus ticket,792.15,Expense,Travel,CSV,2025-01-07
+48,6,2025-01-28,Content editing payout,18411.31,Income,Freelance,Manual,2025-01-28
+49,7,2025-02-06,Monthly salary,8771.31,Income,Salary,Manual,2025-02-06
+50,7,2025-01-07,Clothes shopping,1484.63,Expense,Shopping,OCR,2025-01-07
+51,7,2025-01-25,Freelance work payment,17337.97,Income,Freelance,OCR,2025-01-25
+52,7,2025-02-01,Amazon purchase,1471.57,Expense,Shopping,CSV,2025-02-01
+53,7,2025-01-02,Cafe coffee,1026.39,Expense,Food,Manual,2025-01-02
+54,7,2025-02-06,Clothes shopping,216.74,Expense,Shopping,Manual,2025-02-06
+55,7,2025-02-10,Food delivery - Zomato,949.94,Expense,Food,OCR,2025-02-10
+56,7,2025-01-09,Movie night,894.21,Expense,Entertainment,OCR,2025-01-09
+57,8,2025-01-25,Auto fare,1244.65,Expense,Travel,Manual,2025-01-25
+58,8,2025-02-09,Milk & bread,209.05,Expense,Groceries,CSV,2025-02-09
+59,8,2025-01-26,Grocery shopping,1347.61,Expense,Groceries,OCR,2025-01-26
+60,8,2025-01-01,Monthly salary,23592.86,Income,Salary,CSV,2025-01-01
+61,8,2025-01-15,Grocery shopping,797.9,Expense,Groceries,CSV,2025-01-15
+62,8,2025-01-03,Arcade games,634.45,Expense,Entertainment,CSV,2025-01-03
+63,8,2025-02-06,Bus ticket,1015.26,Expense,Travel,Manual,2025-02-06
+64,8,2025-01-15,Electricity bill,1496.32,Expense,Bills,OCR,2025-01-15
+65,9,2025-02-10,Food delivery - Zomato,875.9,Expense,Food,OCR,2025-02-10
+66,9,2025-02-03,Content editing payout,9755.92,Income,Freelance,OCR,2025-02-03
+67,9,2025-01-12,Clothes shopping,888.44,Expense,Shopping,Manual,2025-01-12
+68,9,2025-01-25,Salary credited,18445.95,Income,Salary,Manual,2025-01-25
+69,9,2025-01-12,Content editing payout,9055.6,Income,Freelance,Manual,2025-01-12
+70,9,2025-02-08,Dmart purchase,1055.02,Expense,Groceries,OCR,2025-02-08
+71,9,2025-01-21,Snacks,1381.61,Expense,Food,OCR,2025-01-21
+72,9,2025-01-09,Milk & bread,919.59,Expense,Groceries,CSV,2025-01-09
+73,10,2025-01-19,Movie night,742.87,Expense,Entertainment,CSV,2025-01-19
+74,10,2025-02-05,Movie night,462.11,Expense,Entertainment,Manual,2025-02-05
+75,10,2025-02-07,Clothes shopping,917.86,Expense,Shopping,Manual,2025-02-07
+76,10,2025-02-08,Uber ride,849.6,Expense,Travel,OCR,2025-02-08
+77,10,2025-01-24,Grocery shopping,326.46,Expense,Groceries,OCR,2025-01-24
+78,10,2025-01-26,Cafe coffee,507.56,Expense,Food,CSV,2025-01-26
+79,10,2025-01-03,Arcade games,632.78,Expense,Entertainment,OCR,2025-01-03
+80,10,2025-02-10,Accessories,929.36,Expense,Shopping,OCR,2025-02-10
+81,11,2025-01-31,Dinner outside,76.02,Expense,Food,CSV,2025-01-31
+82,11,2025-01-18,Bus ticket,910.13,Expense,Travel,OCR,2025-01-18
+83,11,2025-01-21,Food delivery - Zomato,634.17,Expense,Food,OCR,2025-01-21
+84,11,2025-02-02,Dmart purchase,1415.87,Expense,Groceries,OCR,2025-02-02
+85,11,2025-01-16,Grocery shopping,151.58,Expense,Groceries,Manual,2025-01-16
+86,11,2025-02-05,Amazon purchase,1194.33,Expense,Shopping,CSV,2025-02-05
+87,11,2025-01-06,Salary credited,18798.29,Income,Salary,OCR,2025-01-06
+88,11,2025-02-08,Bus ticket,861.47,Expense,Travel,CSV,2025-02-08
+89,12,2025-01-28,Internet bill,149.88,Expense,Bills,OCR,2025-01-28
+90,12,2025-02-10,Arcade games,453.83,Expense,Entertainment,Manual,2025-02-10
+91,12,2025-01-19,Movie night,171.29,Expense,Entertainment,Manual,2025-01-19
+92,12,2025-02-05,Dmart purchase,1397.44,Expense,Groceries,CSV,2025-02-05
+93,12,2025-01-05,Arcade games,1354.1,Expense,Entertainment,Manual,2025-01-05
+94,12,2025-01-31,Monthly salary,7675.55,Income,Salary,CSV,2025-01-31
+95,12,2025-01-17,Grocery shopping,527.8,Expense,Groceries,OCR,2025-01-17
+96,12,2025-01-17,Food delivery - Zomato,130.01,Expense,Food,Manual,2025-01-17
+97,13,2025-01-27,Gas bill,879.25,Expense,Bills,Manual,2025-01-27
+98,13,2025-01-21,Salary credited,17151.16,Income,Salary,CSV,2025-01-21
+99,13,2025-01-13,Cafe coffee,643.43,Expense,Food,Manual,2025-01-13
+100,13,2025-01-30,Content editing payout,25656.96,Income,Freelance,CSV,2025-01-30
+101,13,2025-02-06,Dmart purchase,908.91,Expense,Groceries,CSV,2025-02-06
+102,13,2025-01-30,Uber ride,1051.64,Expense,Travel,CSV,2025-01-30
+103,13,2025-02-01,Freelance work payment,23955.26,Income,Freelance,OCR,2025-02-01
+104,13,2025-01-22,Myntra order,103.39,Expense,Shopping,Manual,2025-01-22
+105,14,2025-01-11,Bus ticket,1173.6,Expense,Travel,CSV,2025-01-11
+106,14,2025-02-01,Internet bill,1341.2,Expense,Bills,Manual,2025-02-01
+107,14,2025-02-07,Gas bill,871.0,Expense,Bills,Manual,2025-02-07
+108,14,2025-01-01,Food delivery - Zomato,1366.65,Expense,Food,OCR,2025-01-01
+109,14,2025-01-29,Bowling,1471.0,Expense,Entertainment,OCR,2025-01-29
+110,14,2025-01-03,Salary credited,22135.35,Income,Salary,CSV,2025-01-03
+111,14,2025-01-20,Bowling,1080.45,Expense,Entertainment,CSV,2025-01-20
+112,14,2025-01-17,Food delivery - Zomato,115.24,Expense,Food,Manual,2025-01-17
+113,15,2025-01-26,Bus ticket,395.89,Expense,Travel,OCR,2025-01-26
+114,15,2025-01-08,Monthly salary,9082.76,Income,Salary,Manual,2025-01-08
+115,15,2025-01-30,Grocery shopping,125.95,Expense,Groceries,OCR,2025-01-30
+116,15,2025-02-07,Movie night,252.21,Expense,Entertainment,Manual,2025-02-07
+117,15,2025-01-01,Dinner outside,1447.25,Expense,Food,OCR,2025-01-01
+118,15,2025-02-08,Grocery shopping,1142.7,Expense,Groceries,Manual,2025-02-08
+119,15,2025-01-27,Salary credited,5634.58,Income,Salary,Manual,2025-01-27
+120,15,2025-02-07,Myntra order,907.17,Expense,Shopping,CSV,2025-02-07
+121,16,2025-01-01,Arcade games,1089.27,Expense,Entertainment,OCR,2025-01-01
+122,16,2025-01-07,Uber ride,1317.79,Expense,Travel,OCR,2025-01-07
+123,16,2025-01-23,Milk & bread,461.6,Expense,Groceries,Manual,2025-01-23
+124,16,2025-01-23,Grocery shopping,159.38,Expense,Groceries,Manual,2025-01-23
+125,16,2025-01-03,Amazon purchase,396.39,Expense,Shopping,CSV,2025-01-03
+126,16,2025-01-28,Movie night,641.35,Expense,Entertainment,OCR,2025-01-28
+127,16,2025-02-05,Uber ride,1448.4,Expense,Travel,CSV,2025-02-05
+128,16,2025-02-04,Milk & bread,1293.05,Expense,Groceries,Manual,2025-02-04
+129,17,2025-01-24,Food delivery - Zomato,132.04,Expense,Food,CSV,2025-01-24
+130,17,2025-01-30,Freelance work payment,14964.36,Income,Freelance,Manual,2025-01-30
+131,17,2025-01-30,Metro recharge,528.07,Expense,Travel,CSV,2025-01-30
+132,17,2025-02-02,Cafe coffee,920.7,Expense,Food,Manual,2025-02-02
+133,17,2025-01-31,Salary credited,7797.62,Income,Salary,Manual,2025-01-31
+134,17,2025-01-04,Content editing payout,1546.65,Income,Freelance,Manual,2025-01-04
+135,17,2025-01-17,Internet bill,289.23,Expense,Bills,OCR,2025-01-17
+136,17,2025-01-04,Milk & bread,883.26,Expense,Groceries,OCR,2025-01-04
+137,18,2025-01-05,Movie night,909.44,Expense,Entertainment,OCR,2025-01-05
+138,18,2025-01-13,Freelance work payment,22844.0,Income,Freelance,Manual,2025-01-13
+139,18,2025-01-29,Freelance work payment,8077.08,Income,Freelance,CSV,2025-01-29
+140,18,2025-01-03,Internet bill,1211.58,Expense,Bills,CSV,2025-01-03
+141,18,2025-02-03,Food delivery - Zomato,1294.54,Expense,Food,CSV,2025-02-03
+142,18,2025-01-03,Salary credited,6418.72,Income,Salary,CSV,2025-01-03
+143,18,2025-02-01,Milk & bread,677.93,Expense,Groceries,OCR,2025-02-01
+144,18,2025-02-02,Monthly salary,23153.38,Income,Salary,CSV,2025-02-02
+145,19,2025-02-02,Auto fare,1181.1,Expense,Travel,Manual,2025-02-02
+146,19,2025-01-09,Grocery shopping,680.41,Expense,Groceries,OCR,2025-01-09
+147,19,2025-01-28,Bowling,807.61,Expense,Entertainment,OCR,2025-01-28
+148,19,2025-01-09,Freelance work payment,20641.2,Income,Freelance,Manual,2025-01-09
+149,19,2025-01-29,Dmart purchase,392.6,Expense,Groceries,OCR,2025-01-29
+150,19,2025-01-11,Monthly salary,224.44,Income,Salary,Manual,2025-01-11
+151,19,2025-01-06,Amazon purchase,1385.19,Expense,Shopping,Manual,2025-01-06
+152,19,2025-01-07,Amazon purchase,1498.2,Expense,Shopping,CSV,2025-01-07
+153,20,2025-02-01,Amazon purchase,1282.48,Expense,Shopping,Manual,2025-02-01
+154,20,2025-01-20,Metro recharge,1363.36,Expense,Travel,Manual,2025-01-20
+155,20,2025-02-04,Accessories,382.99,Expense,Shopping,CSV,2025-02-04
+156,20,2025-01-03,Amazon purchase,554.94,Expense,Shopping,CSV,2025-01-03
+157,20,2025-01-04,Freelance work payment,2107.6,Income,Freelance,OCR,2025-01-04
+158,20,2025-01-27,Accessories,1367.77,Expense,Shopping,OCR,2025-01-27
+159,20,2025-01-10,Food delivery - Zomato,780.22,Expense,Food,Manual,2025-01-10
+160,20,2025-01-11,Uber ride,970.16,Expense,Travel,Manual,2025-01-11
+161,21,2025-02-10,Freelance work payment,1996.99,Income,Freelance,CSV,2025-02-10
+162,21,2025-01-06,Dmart purchase,800.41,Expense,Groceries,CSV,2025-01-06
+163,21,2025-01-16,Accessories,1461.91,Expense,Shopping,OCR,2025-01-16
+164,21,2025-01-13,Cafe coffee,1407.87,Expense,Food,OCR,2025-01-13
+165,21,2025-01-21,Milk & bread,129.46,Expense,Groceries,CSV,2025-01-21
+166,21,2025-01-07,Water bill,208.31,Expense,Bills,Manual,2025-01-07
+167,21,2025-01-04,Grocery shopping,1314.79,Expense,Groceries,OCR,2025-01-04
+168,21,2025-01-12,Grocery shopping,977.27,Expense,Groceries,Manual,2025-01-12
+169,22,2025-01-17,Cafe coffee,357.6,Expense,Food,CSV,2025-01-17
+170,22,2025-01-20,Accessories,873.06,Expense,Shopping,OCR,2025-01-20
+171,22,2025-01-03,Arcade games,1421.73,Expense,Entertainment,CSV,2025-01-03
+172,22,2025-01-13,Content editing payout,24680.51,Income,Freelance,OCR,2025-01-13
+173,22,2025-02-05,Arcade games,190.58,Expense,Entertainment,OCR,2025-02-05
+174,22,2025-01-09,Freelance work payment,24789.54,Income,Freelance,OCR,2025-01-09
+175,22,2025-01-24,Freelance work payment,16830.87,Income,Freelance,Manual,2025-01-24
+176,22,2025-01-10,Content editing payout,17793.75,Income,Freelance,CSV,2025-01-10
+177,23,2025-02-05,Myntra order,830.45,Expense,Shopping,CSV,2025-02-05
+178,23,2025-02-06,Gas bill,1395.69,Expense,Bills,Manual,2025-02-06
+179,23,2025-01-17,Auto fare,1412.53,Expense,Travel,CSV,2025-01-17
+180,23,2025-01-11,Uber ride,442.25,Expense,Travel,OCR,2025-01-11
+181,23,2025-02-07,Bus ticket,601.91,Expense,Travel,OCR,2025-02-07
+182,23,2025-02-07,Gas bill,864.68,Expense,Bills,CSV,2025-02-07
+183,23,2025-02-02,Milk & bread,218.68,Expense,Groceries,Manual,2025-02-02
+184,23,2025-02-06,Dmart purchase,124.32,Expense,Groceries,OCR,2025-02-06
+185,24,2025-02-02,Monthly salary,27176.6,Income,Salary,OCR,2025-02-02
+186,24,2025-02-01,Freelance work payment,9165.42,Income,Freelance,OCR,2025-02-01
+187,24,2025-02-07,Milk & bread,320.96,Expense,Groceries,OCR,2025-02-07
+188,24,2025-02-01,Uber ride,98.01,Expense,Travel,Manual,2025-02-01
+189,24,2025-01-04,Monthly salary,9215.93,Income,Salary,OCR,2025-01-04
+190,24,2025-01-14,Monthly salary,5382.63,Income,Salary,Manual,2025-01-14
+191,24,2025-01-25,Metro recharge,933.42,Expense,Travel,Manual,2025-01-25
+192,24,2025-01-29,Dinner outside,619.15,Expense,Food,OCR,2025-01-29
+193,25,2025-01-19,Content editing payout,10005.82,Income,Freelance,CSV,2025-01-19
+194,25,2025-01-31,Bus ticket,948.36,Expense,Travel,Manual,2025-01-31
+195,25,2025-01-04,Clothes shopping,538.34,Expense,Shopping,Manual,2025-01-04
+196,25,2025-01-14,Salary credited,6139.08,Income,Salary,Manual,2025-01-14
+197,25,2025-01-19,Monthly salary,13952.71,Income,Salary,OCR,2025-01-19
+198,25,2025-01-29,Monthly salary,18514.5,Income,Salary,OCR,2025-01-29
+199,25,2025-01-21,Dmart purchase,942.46,Expense,Groceries,CSV,2025-01-21
+200,25,2025-01-11,Bowling,1270.83,Expense,Entertainment,CSV,2025-01-11
