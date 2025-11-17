@@ -1,0 +1,26 @@
+id,username,email,balance,total_savings,target_savings,monthly_income,monthly_expenses,monthly_savings,today_spent,profile_picture,date_of_birth,gender,nationality,address,member_since,ai_nudges,email_reports,ocr_receipts_sync,insights_frequency,currency,theme,two_factor_auth
+1,aarav01,aarav01@gmail.com,5200,15000,30000,18000,9000,9000,120,profiles/m1.jpg,2003-05-12,Male,Indian,"Kanpur, UP",2024-01-10,True,False,True,Weekly,INR,dark,False
+2,riya_k,riya.kapoor@gmail.com,8400,22000,40000,25000,13000,12000,80,profiles/f1.jpg,2004-09-21,Female,Indian,"Delhi",2023-11-05,True,False,True,Monthly,INR,light,False
+3,ananya_s,ananya.sharma@gmail.com,10000,18000,35000,30000,15000,15000,200,profiles/f2.jpg,2003-02-17,Female,Indian,"Mumbai, MH",2024-03-14,True,True,True,Weekly,INR,dark,True
+4,vikrant_r,vikrant.raj@gmail.com,4500,12000,25000,20000,11000,9000,60,profiles/m2.jpg,2002-11-28,Male,Indian,"Lucknow, UP",2024-02-22,True,False,True,Weekly,INR,dark,False
+5,meera_j,meera.jain@gmail.com,7800,16000,30000,22000,9000,13000,150,profiles/f3.jpg,2005-03-25,Female,Indian,"Ahmedabad, GJ",2023-10-01,True,True,True,Monthly,INR,light,False
+6,harsh_v,harsh.vyas@gmail.com,5600,9000,20000,17000,8000,9000,95,profiles/m3.jpg,2003-08-15,Male,Indian,"Pune, MH",2024-01-25,True,False,True,Weekly,INR,dark,True
+7,sana_q,sana.qureshi@gmail.com,8900,25000,50000,28000,12000,16000,110,profiles/f4.jpg,2004-10-05,Female,Indian,"Hyderabad, TS",2023-09-20,True,False,True,Monthly,INR,light,False
+8,rahul_m,rahul.mehra@gmail.com,4300,7000,20000,16000,9000,7000,70,profiles/m4.jpg,2002-12-18,Male,Indian,"Chennai, TN",2023-12-30,True,False,True,Weekly,INR,dark,False
+9,tanya_b,tanya.bhatt@gmail.com,9200,27000,60000,35000,15000,20000,140,profiles/f5.jpg,2005-06-14,Female,Indian,"Indore, MP",2024-01-05,True,True,True,Weekly,INR,light,True
+10,soham_p,soham.patil@gmail.com,3000,5000,15000,15000,6000,9000,40,profiles/m5.jpg,2003-01-07,Male,Indian,"Nagpur, MH",2023-09-14,True,False,True,Monthly,INR,dark,False
+11,neha_v,neha.verma@gmail.com,6500,14000,35000,21000,9000,12000,160,profiles/f6.jpg,2004-11-30,Female,Indian,"Surat, GJ",2024-02-10,True,True,True,Weekly,INR,light,False
+12,arjun_t,arjun.tiwari@gmail.com,7400,19000,40000,26000,13000,13000,175,profiles/m6.jpg,2003-07-19,Male,Indian,"Bhopal, MP",2023-10-22,True,False,True,Weekly,INR,dark,True
+13,muskan_y,muskan.yadav@gmail.com,8700,21000,45000,28000,14000,14000,130,profiles/f7.jpg,2005-04-04,Female,Indian,"Jaipur, RJ",2024-01-29,True,False,True,Weekly,INR,light,False
+14,aditya_s,aditya.shah@gmail.com,5200,8000,20000,18000,9000,9000,60,profiles/m7.jpg,2002-09-03,Male,Indian,"Varanasi, UP",2023-11-18,True,True,True,Monthly,INR,dark,False
+15,lavanya_k,lavanya.kumar@gmail.com,9400,26000,55000,33000,15000,18000,155,profiles/f8.jpg,2003-06-23,Female,Indian,"Mangalore, KA",2023-08-11,True,False,True,Weekly,INR,light,True
+16,zaid_h,zaid.hassan@gmail.com,4000,9000,22000,17000,8000,9000,45,profiles/m8.jpg,2004-02-12,Male,Indian,"Kolkata, WB",2024-01-15,True,False,True,Weekly,INR,dark,False
+17,khushi_r,khushi.rai@gmail.com,8600,20000,40000,26000,12000,14000,135,profiles/f9.jpg,2005-05-18,Female,Indian,"Patna, BR",2023-09-04,True,True,True,Weekly,INR,light,True
+18,veer_j,veer.jain@gmail.com,3100,7000,15000,15000,7000,8000,55,profiles/m9.jpg,2003-10-25,Male,Indian,"Noida, UP",2024-02-11,True,False,True,Monthly,INR,dark,False
+19,ishita_s,ishita.singh@gmail.com,7500,16000,35000,22000,11000,11000,95,profiles/f10.jpg,2004-12-14,Female,Indian,"Chandigarh",2023-11-01,True,False,True,Weekly,INR,light,False
+20,kartik_m,kartik.mehta@gmail.com,6800,19000,42000,25000,12000,13000,125,profiles/m10.jpg,2002-08-09,Male,Indian,"Gurgaon, HR",2024-01-22,True,False,True,Weekly,INR,dark,True
+21,shruti_p,shruti.pandey@gmail.com,8300,24000,50000,30000,15000,15000,140,profiles/f11.jpg,2003-04-16,Female,Indian,"Raipur, CG",2023-07-30,True,True,True,Weekly,INR,light,False
+22,yash_d,yash.desai@gmail.com,4200,10000,25000,18000,9000,9000,75,profiles/m11.jpg,2004-03-12,Male,Indian,"Thane, MH",2024-01-04,True,False,True,Weekly,INR,dark,False
+23,divya_m,divya.modi@gmail.com,9100,28000,60000,34000,16000,18000,165,profiles/f12.jpg,2003-07-07,Female,Indian,"Vadodara, GJ",2023-10-17,True,False,True,Monthly,INR,light,True
+24,farhan_s,farhan.siddiqui@gmail.com,3900,9000,20000,17000,8000,9000,50,profiles/m12.jpg,2002-05-27,Male,Indian,"Agra, UP",2023-12-12,True,False,True,Weekly,INR,dark,False
+25,simran_k,simran.kaur@gmail.com,8100,23000,45000,29000,14000,15000,145,profiles/f13.jpg,2004-01-22,Female,Indian,"Amritsar, PB",2024-01-19,True,True,True,Weekly,INR,light,False

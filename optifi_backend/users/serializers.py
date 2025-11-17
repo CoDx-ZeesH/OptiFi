@@ -4,6 +4,10 @@ from .models import CustomUser
 
 User = get_user_model()
 
+
+# --------------------------
+# Registration Serializer
+# --------------------------
 class RegisterSerializer(serializers.ModelSerializer):
     password = serializers.CharField(write_only=True)
 
@@ -20,33 +24,42 @@ class RegisterSerializer(serializers.ModelSerializer):
         return user
 
 
-class UserSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = User
-        fields = ['id', 'username', 'email', 'phone', 'bio', 'is_premium']
-
-
+# --------------------------
+# Login Serializer
+# --------------------------
 class LoginSerializer(serializers.Serializer):
     email = serializers.EmailField()
     password = serializers.CharField(write_only=True)
 
 
-class UserProfileSerializer(serializers.ModelSerializer):
+# --------------------------
+# User Profile Serializer
+# --------------------------
+class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = CustomUser
         fields = [
-            'id',
-            'username',
-            'email',
-            'phone',
-            'profile_picture',
-            'bio',
-            'is_premium',
-            'monthly_income',
-            'fixed_expenses',
-            'savings_goal',
-            'target_savings',
-            'preferred_budget_alert_limit',
-            'currency'
+            "id",
+            "username",
+            "email",
+            "balance",
+            "total_savings",
+            "target_savings",
+            "monthly_income",
+            "monthly_expenses",
+            "monthly_savings",
+            "today_spent",
+            "profile_picture",
+            "date_of_birth",
+            "gender",
+            "nationality",
+            "address",
+            "member_since",
+            "ai_nudges",
+            "email_reports",
+            "ocr_receipts_sync",
+            "insights_frequency",
+            "currency",
+            "theme",
+            "two_factor_auth",
         ]
-        read_only_fields = ['id', 'username', 'email']
