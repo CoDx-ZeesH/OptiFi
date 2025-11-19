@@ -19,7 +19,6 @@ import {
 import { FiFilter, FiChevronDown, FiSettings, FiLogOut, FiUser, FiBell, FiSearch } from "react-icons/fi";
 import { Link, useLocation } from "react-router-dom";
 import { assets } from "../assets/assets";
-import profilePic from "../assets/group_profile.png";
 
 /* -------------------- Sample Data -------------------- */
 const monthlyExpenses = [
@@ -55,6 +54,7 @@ const categoryData = [
 
 const COLORS = ["#06B6D4", "#3B82F6", "#22C55E", "#F59E0B", "#8B5CF6", "#F97316"];
 
+const profilePic = 'https://i.pravatar.cc/150?img=32';
 function Card({ children, className = "" }) {
   return (
     <div

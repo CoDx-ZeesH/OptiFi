@@ -45,8 +45,8 @@ export default function ProfileSettingsPage() {
 
   // form state
   const [form, setForm] = useState({
-    fullName: "Anshi Agrawal",
-    email: "anshi_agrawal@gmail.com",
+    fullName: "Neha Verma",
+    email: "neha.verma@gmail.com",
     dob: "2001-02-10",
     gender: "Male",
     nationality: "India",
@@ -194,7 +194,7 @@ export default function ProfileSettingsPage() {
               </div>
 
               <FiBell className="text-xl hover:text-cyan-400 transition" />
-              <img src={profilePic} alt="avatar" className="w-10 h-10 rounded-full border-2 border-cyan-400 object-cover shadow-[0_0_10px_rgba(6,182,212,0.25)]" />
+              <img src="https://i.pravatar.cc/150?img=32" alt="avatar" className="w-10 h-10 rounded-full border-2 border-cyan-400 object-cover shadow-[0_0_10px_rgba(6,182,212,0.25)]" />
             </div>
           </div>
 

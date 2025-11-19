@@ -12,7 +12,6 @@ import CountUp from "react-countup";
 import Card from "./ui/Card";
 import LoadShimmer from "./ui/Loadshimmer";
 import { chartGradients } from "../utils/chartGradients";
-import profilePic from "../assets/group_profile.png";
 
 /* Lazy-loaded charts */
 const AreaChartSection = lazy(() => import("./charts/FinancialStats"));
@@ -25,6 +24,7 @@ export default function Dashboard() {
 
   const token = localStorage.getItem("access_token");
   const backendUrl = "http://localhost:8000";
+  const profilePic = 'https://i.pravatar.cc/150?img=32';
 
   // Add monthlyData state
 const [monthlyData, setMonthlyData] = useState([]);
