@@ -15,7 +15,6 @@ import { Link, useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 
 import { assets } from "../assets/assets";
-import profilePic from "../assets/group_profile.png";
 
 export default function Transactions() {
   const location = useLocation();
@@ -40,7 +39,7 @@ export default function Transactions() {
       note: "",
     },
   ]);
-
+  const profilePic = 'https://i.pravatar.cc/150?img=32';
   const [search, setSearch] = useState("");
   const [showAddModal, setShowAddModal] = useState(false);
   const [showEditModal, setShowEditModal] = useState(null);

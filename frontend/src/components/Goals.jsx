@@ -1,97 +1,39 @@
 // =========================================
-// OptiFi — GOALS PAGE WITH SIDEBAR (FINAL)
+// OptiFi — GOALS PAGE WITH SIDEBAR (BACKEND-INTEGRATED)
 // =========================================
 
 import React, { useState, useMemo, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
-
 import {
   FiPlus,
   FiEdit2,
   FiTrash2,
-  FiBarChart2,
   FiCheckCircle,
   FiUser,
   FiSettings,
   FiLogOut,
 } from "react-icons/fi";
 
-import {
-  ResponsiveContainer,
-  PieChart,
-  Pie,
-  Cell,
-  LineChart,
-  Line,
-  XAxis,
-  YAxis,
-  Tooltip,
-  CartesianGrid
-} from "recharts";
-
 import { assets } from "../assets/assets";
 
-// REST OF YOUR GOALS PAGE LOGIC — unchanged
-// -------------------------------------------------------------
-// SAMPLE DATA
-// -------------------------------------------------------------
-const initialGoals = [
-  {
-    id: 1,
-    title: "New Phone Savings",
-    target: 30000,
-    saved: 15000,
-    startDate: "2025-09-01",
-    endDate: "2026-01-01",
-    category: "Shopping",
-    dailyNeeded: 180,
-    pace: "On Track",
-    insight: "You need to save ₹180/day to reach this goal in 60 days.",
-    completed: false,
-  },
-  {
-    id: 2,
-    title: "Emergency Fund",
-    target: 50000,
-    saved: 42000,
-    startDate: "2025-06-01",
-    endDate: "2025-09-01",
-    category: "Savings",
-    dailyNeeded: 100,
-    pace: "Ahead",
-    insight: "Consistent habit — 92% of goal reached.",
-    completed: false,
-  },
-];
+// ------------------------------
+// BACKEND CONFIG
+// ------------------------------
+const backendUrl = "http://localhost:8000";
+const token = localStorage.getItem("access_token");
 
-const pieData = [
-  { name: "New Phone", value: 30 },
-  { name: "Emergency Fund", value: 70 },
-];
-
-const trendData = [
-  { month: "Jul", saved: 2000 },
-  { month: "Aug", saved: 2500 },
-  { month: "Sep", saved: 4200 },
-  { month: "Oct", saved: 3000 },
-  { month: "Nov", saved: 3500 },
-];
-
+// ------------------------------
+// SMALL UI COMPONENTS (unchanged)
+// ------------------------------
 const BG_GRADIENT =
   "bg-gradient-to-b from-[#0F172A] via-[#0F172A] to-[#090714]";
-
 const CARD_BG = "bg-[#1E293B]/40";
 const CARD_BORDER = "border border-white/10";
-
 const PRIMARY_COLOR = "#3B82F6";
 const CYAN_COLOR = "#06B6D4";
-
 const PROGRESS_GRADIENT = "linear-gradient(90deg, #3B82F6, #06B6D4)";
 
-// -------------------------------------------------------------
-// Small UI Components
-// -------------------------------------------------------------
 function GlassCard({ children, className = "" }) {
   return (
     <div
@@ -118,9 +60,9 @@ function ProgressBar({ percent }) {
   );
 }
 
-// -------------------------------------------------------------
-// Sidebar Component (Imported from Dashboard)
-// -------------------------------------------------------------
+// ------------------------------
+// SIDEBAR (unchanged)
+// ------------------------------
 function Sidebar() {
   const location = useLocation();
 
@@ -134,20 +76,16 @@ function Sidebar() {
   ];
 
   return (
-    <aside className="col-span-2 bg-gradient-to-b from-[#4b6ff5] to-[#06B6D4] 
-      rounded-tr-3xl rounded-br-3xl p-6 sticky top-6 h-[calc(100vh-48px)] 
-      shadow-[inset_0_0_30px_rgba(0,0,0,0.2)] flex flex-col justify-between">
+    <aside className="col-span-2 bg-gradient-to-b from-[#4b6ff5] to-[#06B6D4] rounded-tr-3xl rounded-br-3xl p-6 sticky top-6 h-[calc(100vh-48px)] shadow-[inset_0_0_30px_rgba(0,0,0,0.2)] flex flex-col justify-between">
+      <div>
+        <div className="flex items-center gap-2 mb-10">
+          <img src={assets.logo} alt="OptiFi Logo" className="w-20 h-20" />
+          <div>
+            <h1 className="font-bold text-lg text-white">OptiFi</h1>
+            <p className="text-xs text-white/70">Personal Finance</p>
+          </div>
+        </div>
 
-      {/* Logo */}
-               <div>
-                 <div className="flex items-center gap-2 mb-10">
-                   <img src={assets.logo} alt="OptiFi Logo" className="w-20 h-20 drop-shadow-[1px_1px_1px_rgba(0,0,0,0.5)]" />
-                   <div>
-                     <h1 className="font-bold text-lg text-white tracking-tight">OptiFi</h1>
-                     <p className="text-xs text-white/70">Personal Finance</p>
-                   </div>
-                 </div>
-        {/* Nav */}
         <nav className="space-y-3">
           {navLinks.map((item) => (
             <Link
@@ -166,11 +104,10 @@ function Sidebar() {
         </nav>
       </div>
 
-      {/* Settings + Logout */}
       <div className="space-y-3 pt-6 border-t border-white/20">
         <Link
           to="/profile"
-          className="flex items-center gap-3 px-4 py-2 rounded-full hover:bg-white/10 transition"
+          className="flex items-center gap-3 px-4 py-2 rounded-full hover:bg-white/10"
         >
           <FiSettings />
           <span className="text-sm">Settings</span>
@@ -178,7 +115,7 @@ function Sidebar() {
 
         <Link
           to="/auth"
-          className="flex items-center gap-3 px-4 py-2 rounded-full hover:bg-white/10 transition"
+          className="flex items-center gap-3 px-4 py-2 rounded-full hover:bg-white/10"
         >
           <FiLogOut />
           <span className="text-sm">Logout</span>
@@ -188,12 +125,9 @@ function Sidebar() {
   );
 }
 
-// -------------------------------------------------------------
-// MAIN PAGE — GOALS PAGE
-// -------------------------------------------------------------
-/* -------------------------------------------------------------
-   CREATE / EDIT MODAL (FULL AND WORKING)
-------------------------------------------------------------- */
+// ------------------------------
+// CREATE / EDIT MODAL (unchanged)
+// ------------------------------
 function GoalModal({ open, onClose, onSave, initial }) {
   const [form, setForm] = useState(
     initial || {
@@ -319,60 +253,122 @@ function GoalModal({ open, onClose, onSave, initial }) {
   );
 }
 
+// ------------------------------
+// MAIN GOALS PAGE — BACKEND CONNECTED
+// ------------------------------
 export default function Goals() {
-  const [goals, setGoals] = useState(initialGoals);
+  const [goals, setGoals] = useState([]);
   const [showModal, setShowModal] = useState(false);
   const [editing, setEditing] = useState(null);
+
+  // ------------------------------
+  // LOAD GOALS FROM BACKEND
+  // ------------------------------
+  useEffect(() => {
+  if (!token) return;
+
+  fetch(`${backendUrl}/api/goals/`, {
+    headers: { Authorization: `Bearer ${token}` },
+  })
+    .then((res) => res.json())
+    .then((data) => {
+      if (Array.isArray(data)) {
+        setGoals(data);
+      } else {
+        console.error("Goals API returned invalid format:", data);
+        setGoals([]);
+      }
+    })
+    .catch((err) => console.error("Goals Fetch Error:", err));
+}, []);
+
+
+  // ------------------------------
+  // BACKEND HANDLERS
+  // ------------------------------
+
+  // CREATE GOAL
+  function handleAdd(form) {
+    fetch(`${backendUrl}/api/goals/`, {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        title: form.title,
+        target_amount: Number(form.target),
+        saved_amount: 0,
+        end_date: form.endDate,
+      }),
+    })
+      .then((res) => res.json())
+      .then((goal) => {
+        setGoals((prev) => [goal, ...prev]);
+        setShowModal(false);
+      })
+      .catch((err) => console.error("Create Goal Error:", err));
+  }
+
+  // EDIT GOAL
+  function handleSaveEdit(form) {
+    fetch(`${backendUrl}/api/goals/${editing.id}/`, {
+      method: "PATCH",
+      headers: {
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        title: form.title,
+        target_amount: Number(form.target),
+        end_date: form.endDate,
+        saved_amount: editing.saved_amount, // keep previous saved
+      }),
+    })
+      .then((res) => res.json())
+      .then((updated) => {
+        setGoals(goals.map((g) => (g.id === editing.id ? updated : g)));
+        setEditing(null);
+        setShowModal(false);
+      })
+      .catch((err) => console.error("Update Goal Error:", err));
+  }
+
+  // DELETE GOAL
+  function handleDelete(id) {
+    fetch(`${backendUrl}/api/goals/${id}/`, {
+      method: "DELETE",
+      headers: { Authorization: `Bearer ${token}` },
+    })
+      .then(() => {
+        setGoals(goals.filter((g) => g.id !== id));
+      })
+      .catch((err) => console.error("Delete Goal Error:", err));
+  }
+
+  // MARK COMPLETE
+  function toggleComplete(id) {
+    fetch(`${backendUrl}/api/goals/${id}/complete/`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${token}` },
+    })
+      .then((res) => res.json())
+      .then((updated) => {
+        setGoals(goals.map((g) => (g.id === id ? updated : g)));
+      })
+      .catch((err) => console.error("Complete Goal Error:", err));
+  }
 
   const activeGoals = goals.filter((g) => !g.completed);
   const completedGoals = goals.filter((g) => g.completed);
 
-  function handleAdd(form) {
-    const newGoal = {
-      id: Date.now(),
-      title: form.title,
-      target: Number(form.target),
-      saved: 0,
-      startDate: new Date().toISOString().slice(0, 10),
-      endDate: form.endDate,
-      category: form.category,
-      dailyNeeded: Math.ceil(Number(form.target) / 90),
-      pace: "Behind",
-      insight: "AI will customise your plan.",
-      completed: false,
-    };
-    setGoals([newGoal, ...goals]);
-    setShowModal(false);
-  }
-
-  function handleSaveEdit(form) {
-    setGoals(goals.map((g) => (g.id === editing.id ? { ...g, ...form } : g)));
-    setEditing(null);
-    setShowModal(false);
-  }
-
-  function handleDelete(id) {
-    setGoals(goals.filter((g) => g.id !== id));
-  }
-
-  function toggleComplete(id) {
-    setGoals(
-      goals.map((g) =>
-        g.id === id ? { ...g, completed: !g.completed } : g
-      )
-    );
-  }
-
   return (
     <div className={`min-h-screen ${BG_GRADIENT} text-white p-6`}>
       <div className="grid grid-cols-12 gap-6">
-
-        {/* SIDEBAR */}
         <Sidebar />
 
         {/* MAIN CONTENT */}
         <main className="col-span-10">
-
           {/* Header */}
           <div className="flex justify-between items-center mb-10">
             <div>
@@ -393,7 +389,9 @@ export default function Goals() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
             {activeGoals.map((g) => {
-              const percent = Math.round((g.saved / g.target) * 100);
+              const percent = Math.round(
+                (g.saved_amount / g.target_amount) * 100
+              );
 
               return (
                 <GlassCard key={g.id}>
@@ -403,7 +401,7 @@ export default function Goals() {
                   </div>
 
                   <p className="text-sm text-[#94A3B8] mt-2">
-                    ₹{g.saved} / ₹{g.target}
+                    ₹{g.saved_amount} / ₹{g.target_amount}
                   </p>
 
                   <div className="mt-4">
@@ -411,31 +409,43 @@ export default function Goals() {
                   </div>
 
                   <div className="grid grid-cols-2 gap-2 text-xs text-[#A7B4C8] mt-3">
-                    <div>Start: <div className="text-white">{g.startDate}</div></div>
-                    <div>End: <div className="text-white">{g.endDate}</div></div>
-                    <div>Daily: <div className="text-white">₹{g.dailyNeeded}</div></div>
-                    <div>Pace: <div className="text-white">{g.pace}</div></div>
+                    <div>
+                      Start:{" "}
+                      <div className="text-white">{g.start_date}</div>
+                    </div>
+                    <div>
+                      End: <div className="text-white">{g.end_date}</div>
+                    </div>
                   </div>
 
-                  <p className="text-sm mt-3 text-[#E6EEF8] italic">{g.insight}</p>
+                  <p className="text-sm mt-3 text-[#E6EEF8] italic">
+                    Aim for consistent savings!
+                  </p>
 
                   <div className="flex justify-between items-center mt-4">
                     <div className="flex gap-2">
                       <button
                         onClick={() => {
-                          setEditing(g);
+                          setEditing({
+                            id: g.id,
+                            title: g.title,
+                            target: g.target_amount,
+                            endDate: g.end_date,
+                          });
                           setShowModal(true);
                         }}
                         className="p-2 rounded-full bg-white/5 hover:bg-white/10"
                       >
                         <FiEdit2 />
                       </button>
+
                       <button
                         onClick={() => handleDelete(g.id)}
                         className="p-2 rounded-full bg-white/5 hover:bg-white/10"
                       >
                         <FiTrash2 />
                       </button>
+
                       <button
                         onClick={() => toggleComplete(g.id)}
                         className="p-2 rounded-full bg-white/5 hover:bg-white/10"
@@ -462,17 +472,13 @@ export default function Goals() {
                   <div>
                     <h3 className="font-semibold">{c.title}</h3>
                     <p className="text-sm text-[#94A3B8]">
-                      Achieved — ₹{c.saved}
+                      Completed — ₹{c.saved_amount}
                     </p>
                   </div>
                 </div>
-                <p className="text-sm text-[#E6EEF8] mt-3 italic">
-                  {c.insight || "Amazing consistency!"}
-                </p>
               </GlassCard>
             ))}
           </div>
-
         </main>
       </div>
 

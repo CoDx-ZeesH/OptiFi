@@ -21,7 +21,6 @@ import {
   FiSearch,
 } from "react-icons/fi";
 import { assets } from "../assets/assets";
-import profilePic from "../assets/group_profile.png";
 
 /* -------------------- SAMPLE DATA -------------------- */
 const monthlyTrend = [
@@ -47,6 +46,8 @@ const pieColors = [
   "#6366F1",
   "#38BDF8",
 ];
+
+const profilePic = 'https://i.pravatar.cc/150?img=32';
 
 /* -------------------- Animations -------------------- */
 const fadeUp = {

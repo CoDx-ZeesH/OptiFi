@@ -1,0 +1,1501 @@
+user,month,income,expenses,week,weekly_value,category,category_value,ai_insight
+1,2025-06,46316,21190,W1,6238,,,You're overspending on Food this month.
+1,2025-06,46316,21190,W2,5250,,,You're overspending on Food this month.
+1,2025-06,46316,21190,W3,5633,,,You're overspending on Food this month.
+1,2025-06,46316,21190,W4,6934,,,You're overspending on Food this month.
+1,2025-06,46316,21190,,,Food,6209,You're overspending on Food this month.
+1,2025-06,46316,21190,,,Travel,4250,You're overspending on Food this month.
+1,2025-06,46316,21190,,,Bills,4520,You're overspending on Food this month.
+1,2025-06,46316,21190,,,Shopping,6458,You're overspending on Food this month.
+1,2025-06,46316,21190,,,Entertainment,5753,You're overspending on Food this month.
+1,2025-06,46316,21190,,,Misc,6179,You're overspending on Food this month.
+1,2025-07,42373,23229,W1,4417,,,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,W2,5187,,,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,W3,6020,,,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,W4,6670,,,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,,,Food,2374,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,,,Travel,2536,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,,,Bills,1799,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,,,Shopping,1521,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,,,Entertainment,2767,Travel costs increased by 12% this month.
+1,2025-07,42373,23229,,,Misc,7046,Travel costs increased by 12% this month.
+1,2025-08,44176,23315,W1,4533,,,Bills are unusually high this month.
+1,2025-08,44176,23315,W2,6165,,,Bills are unusually high this month.
+1,2025-08,44176,23315,W3,6383,,,Bills are unusually high this month.
+1,2025-08,44176,23315,W4,4882,,,Bills are unusually high this month.
+1,2025-08,44176,23315,,,Food,7641,Bills are unusually high this month.
+1,2025-08,44176,23315,,,Travel,7836,Bills are unusually high this month.
+1,2025-08,44176,23315,,,Bills,7415,Bills are unusually high this month.
+1,2025-08,44176,23315,,,Shopping,5409,Bills are unusually high this month.
+1,2025-08,44176,23315,,,Entertainment,6723,Bills are unusually high this month.
+1,2025-08,44176,23315,,,Misc,6330,Bills are unusually high this month.
+1,2025-09,51241,25712,W1,4706,,,Entertainment spending increased 18%.
+1,2025-09,51241,25712,W2,6447,,,Entertainment spending increased 18%.
+1,2025-09,51241,25712,W3,5208,,,Entertainment spending increased 18%.
+1,2025-09,51241,25712,W4,5790,,,Entertainment spending increased 18%.
+1,2025-09,51241,25712,,,Food,7123,Entertainment spending increased 18%.
+1,2025-09,51241,25712,,,Travel,5593,Entertainment spending increased 18%.
+1,2025-09,51241,25712,,,Bills,1437,Entertainment spending increased 18%.
+1,2025-09,51241,25712,,,Shopping,5456,Entertainment spending increased 18%.
+1,2025-09,51241,25712,,,Entertainment,6754,Entertainment spending increased 18%.
+1,2025-09,51241,25712,,,Misc,2615,Entertainment spending increased 18%.
+1,2025-10,46834,23464,W1,6201,,,Travel spending is stable.
+1,2025-10,46834,23464,W2,4260,,,Travel spending is stable.
+1,2025-10,46834,23464,W3,5840,,,Travel spending is stable.
+1,2025-10,46834,23464,W4,4470,,,Travel spending is stable.
+1,2025-10,46834,23464,,,Food,6725,Travel spending is stable.
+1,2025-10,46834,23464,,,Travel,1779,Travel spending is stable.
+1,2025-10,46834,23464,,,Bills,1370,Travel spending is stable.
+1,2025-10,46834,23464,,,Shopping,1747,Travel spending is stable.
+1,2025-10,46834,23464,,,Entertainment,2759,Travel spending is stable.
+1,2025-10,46834,23464,,,Misc,7879,Travel spending is stable.
+1,2025-11,49239,22586,W1,4299,,,Good job! Your spending is controlled.
+1,2025-11,49239,22586,W2,4880,,,Good job! Your spending is controlled.
+1,2025-11,49239,22586,W3,6440,,,Good job! Your spending is controlled.
+1,2025-11,49239,22586,W4,6447,,,Good job! Your spending is controlled.
+1,2025-11,49239,22586,,,Food,2347,Good job! Your spending is controlled.
+1,2025-11,49239,22586,,,Travel,3634,Good job! Your spending is controlled.
+1,2025-11,49239,22586,,,Bills,7363,Good job! Your spending is controlled.
+1,2025-11,49239,22586,,,Shopping,3422,Good job! Your spending is controlled.
+1,2025-11,49239,22586,,,Entertainment,2778,Good job! Your spending is controlled.
+1,2025-11,49239,22586,,,Misc,968,Good job! Your spending is controlled.
+2,2025-06,42259,24220,W1,6461,,,You're overspending on Food this month.
+2,2025-06,42259,24220,W2,6723,,,You're overspending on Food this month.
+2,2025-06,42259,24220,W3,5006,,,You're overspending on Food this month.
+2,2025-06,42259,24220,W4,5715,,,You're overspending on Food this month.
+2,2025-06,42259,24220,,,Food,3927,You're overspending on Food this month.
+2,2025-06,42259,24220,,,Travel,4141,You're overspending on Food this month.
+2,2025-06,42259,24220,,,Bills,981,You're overspending on Food this month.
+2,2025-06,42259,24220,,,Shopping,4800,You're overspending on Food this month.
+2,2025-06,42259,24220,,,Entertainment,1232,You're overspending on Food this month.
+2,2025-06,42259,24220,,,Misc,3502,You're overspending on Food this month.
+2,2025-07,51663,24791,W1,6232,,,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,W2,5495,,,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,W3,4213,,,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,W4,4491,,,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,,,Food,2060,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,,,Travel,7414,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,,,Bills,3386,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,,,Shopping,1171,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,,,Entertainment,2330,Travel costs increased by 12% this month.
+2,2025-07,51663,24791,,,Misc,2019,Travel costs increased by 12% this month.
+2,2025-08,51997,23581,W1,6387,,,Bills are unusually high this month.
+2,2025-08,51997,23581,W2,5621,,,Bills are unusually high this month.
+2,2025-08,51997,23581,W3,6227,,,Bills are unusually high this month.
+2,2025-08,51997,23581,W4,5712,,,Bills are unusually high this month.
+2,2025-08,51997,23581,,,Food,7658,Bills are unusually high this month.
+2,2025-08,51997,23581,,,Travel,7078,Bills are unusually high this month.
+2,2025-08,51997,23581,,,Bills,4267,Bills are unusually high this month.
+2,2025-08,51997,23581,,,Shopping,3833,Bills are unusually high this month.
+2,2025-08,51997,23581,,,Entertainment,1976,Bills are unusually high this month.
+2,2025-08,51997,23581,,,Misc,2991,Bills are unusually high this month.
+2,2025-09,42237,19019,W1,4772,,,Entertainment spending increased 18%.
+2,2025-09,42237,19019,W2,4766,,,Entertainment spending increased 18%.
+2,2025-09,42237,19019,W3,5045,,,Entertainment spending increased 18%.
+2,2025-09,42237,19019,W4,4673,,,Entertainment spending increased 18%.
+2,2025-09,42237,19019,,,Food,4251,Entertainment spending increased 18%.
+2,2025-09,42237,19019,,,Travel,2137,Entertainment spending increased 18%.
+2,2025-09,42237,19019,,,Bills,983,Entertainment spending increased 18%.
+2,2025-09,42237,19019,,,Shopping,4338,Entertainment spending increased 18%.
+2,2025-09,42237,19019,,,Entertainment,4396,Entertainment spending increased 18%.
+2,2025-09,42237,19019,,,Misc,7236,Entertainment spending increased 18%.
+2,2025-10,46673,20835,W1,5386,,,Travel spending is stable.
+2,2025-10,46673,20835,W2,5443,,,Travel spending is stable.
+2,2025-10,46673,20835,W3,4339,,,Travel spending is stable.
+2,2025-10,46673,20835,W4,4065,,,Travel spending is stable.
+2,2025-10,46673,20835,,,Food,7176,Travel spending is stable.
+2,2025-10,46673,20835,,,Travel,6676,Travel spending is stable.
+2,2025-10,46673,20835,,,Bills,2598,Travel spending is stable.
+2,2025-10,46673,20835,,,Shopping,2413,Travel spending is stable.
+2,2025-10,46673,20835,,,Entertainment,5255,Travel spending is stable.
+2,2025-10,46673,20835,,,Misc,5831,Travel spending is stable.
+2,2025-11,42225,18254,W1,5229,,,Good job! Your spending is controlled.
+2,2025-11,42225,18254,W2,5634,,,Good job! Your spending is controlled.
+2,2025-11,42225,18254,W3,4535,,,Good job! Your spending is controlled.
+2,2025-11,42225,18254,W4,5603,,,Good job! Your spending is controlled.
+2,2025-11,42225,18254,,,Food,7209,Good job! Your spending is controlled.
+2,2025-11,42225,18254,,,Travel,4974,Good job! Your spending is controlled.
+2,2025-11,42225,18254,,,Bills,4549,Good job! Your spending is controlled.
+2,2025-11,42225,18254,,,Shopping,4349,Good job! Your spending is controlled.
+2,2025-11,42225,18254,,,Entertainment,3072,Good job! Your spending is controlled.
+2,2025-11,42225,18254,,,Misc,5935,Good job! Your spending is controlled.
+3,2025-06,50457,18977,W1,4901,,,You're overspending on Food this month.
+3,2025-06,50457,18977,W2,6669,,,You're overspending on Food this month.
+3,2025-06,50457,18977,W3,5340,,,You're overspending on Food this month.
+3,2025-06,50457,18977,W4,4316,,,You're overspending on Food this month.
+3,2025-06,50457,18977,,,Food,6760,You're overspending on Food this month.
+3,2025-06,50457,18977,,,Travel,4449,You're overspending on Food this month.
+3,2025-06,50457,18977,,,Bills,6757,You're overspending on Food this month.
+3,2025-06,50457,18977,,,Shopping,6659,You're overspending on Food this month.
+3,2025-06,50457,18977,,,Entertainment,4964,You're overspending on Food this month.
+3,2025-06,50457,18977,,,Misc,7333,You're overspending on Food this month.
+3,2025-07,47501,23456,W1,6667,,,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,W2,5201,,,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,W3,5379,,,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,W4,4487,,,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,,,Food,4301,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,,,Travel,5142,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,,,Bills,3486,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,,,Shopping,4357,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,,,Entertainment,1887,Travel costs increased by 12% this month.
+3,2025-07,47501,23456,,,Misc,4025,Travel costs increased by 12% this month.
+3,2025-08,44067,21703,W1,4904,,,Bills are unusually high this month.
+3,2025-08,44067,21703,W2,5107,,,Bills are unusually high this month.
+3,2025-08,44067,21703,W3,6102,,,Bills are unusually high this month.
+3,2025-08,44067,21703,W4,5749,,,Bills are unusually high this month.
+3,2025-08,44067,21703,,,Food,2510,Bills are unusually high this month.
+3,2025-08,44067,21703,,,Travel,2430,Bills are unusually high this month.
+3,2025-08,44067,21703,,,Bills,6979,Bills are unusually high this month.
+3,2025-08,44067,21703,,,Shopping,964,Bills are unusually high this month.
+3,2025-08,44067,21703,,,Entertainment,2132,Bills are unusually high this month.
+3,2025-08,44067,21703,,,Misc,2904,Bills are unusually high this month.
+3,2025-09,47818,24147,W1,5846,,,Entertainment spending increased 18%.
+3,2025-09,47818,24147,W2,6418,,,Entertainment spending increased 18%.
+3,2025-09,47818,24147,W3,5768,,,Entertainment spending increased 18%.
+3,2025-09,47818,24147,W4,6639,,,Entertainment spending increased 18%.
+3,2025-09,47818,24147,,,Food,2540,Entertainment spending increased 18%.
+3,2025-09,47818,24147,,,Travel,1749,Entertainment spending increased 18%.
+3,2025-09,47818,24147,,,Bills,3567,Entertainment spending increased 18%.
+3,2025-09,47818,24147,,,Shopping,2911,Entertainment spending increased 18%.
+3,2025-09,47818,24147,,,Entertainment,7667,Entertainment spending increased 18%.
+3,2025-09,47818,24147,,,Misc,4876,Entertainment spending increased 18%.
+3,2025-10,46681,23929,W1,5568,,,Travel spending is stable.
+3,2025-10,46681,23929,W2,6180,,,Travel spending is stable.
+3,2025-10,46681,23929,W3,5965,,,Travel spending is stable.
+3,2025-10,46681,23929,W4,4154,,,Travel spending is stable.
+3,2025-10,46681,23929,,,Food,4965,Travel spending is stable.
+3,2025-10,46681,23929,,,Travel,2518,Travel spending is stable.
+3,2025-10,46681,23929,,,Bills,3685,Travel spending is stable.
+3,2025-10,46681,23929,,,Shopping,3203,Travel spending is stable.
+3,2025-10,46681,23929,,,Entertainment,2130,Travel spending is stable.
+3,2025-10,46681,23929,,,Misc,1430,Travel spending is stable.
+3,2025-11,47095,18868,W1,5620,,,Good job! Your spending is controlled.
+3,2025-11,47095,18868,W2,4914,,,Good job! Your spending is controlled.
+3,2025-11,47095,18868,W3,4224,,,Good job! Your spending is controlled.
+3,2025-11,47095,18868,W4,4142,,,Good job! Your spending is controlled.
+3,2025-11,47095,18868,,,Food,2852,Good job! Your spending is controlled.
+3,2025-11,47095,18868,,,Travel,7807,Good job! Your spending is controlled.
+3,2025-11,47095,18868,,,Bills,967,Good job! Your spending is controlled.
+3,2025-11,47095,18868,,,Shopping,2770,Good job! Your spending is controlled.
+3,2025-11,47095,18868,,,Entertainment,7804,Good job! Your spending is controlled.
+3,2025-11,47095,18868,,,Misc,1227,Good job! Your spending is controlled.
+4,2025-06,43074,24452,W1,4997,,,You're overspending on Food this month.
+4,2025-06,43074,24452,W2,4803,,,You're overspending on Food this month.
+4,2025-06,43074,24452,W3,4361,,,You're overspending on Food this month.
+4,2025-06,43074,24452,W4,6818,,,You're overspending on Food this month.
+4,2025-06,43074,24452,,,Food,5511,You're overspending on Food this month.
+4,2025-06,43074,24452,,,Travel,2016,You're overspending on Food this month.
+4,2025-06,43074,24452,,,Bills,3462,You're overspending on Food this month.
+4,2025-06,43074,24452,,,Shopping,5283,You're overspending on Food this month.
+4,2025-06,43074,24452,,,Entertainment,967,You're overspending on Food this month.
+4,2025-06,43074,24452,,,Misc,4041,You're overspending on Food this month.
+4,2025-07,49425,19828,W1,5582,,,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,W2,5893,,,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,W3,6906,,,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,W4,5591,,,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,,,Food,1401,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,,,Travel,4802,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,,,Bills,5541,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,,,Shopping,1516,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,,,Entertainment,1925,Travel costs increased by 12% this month.
+4,2025-07,49425,19828,,,Misc,6112,Travel costs increased by 12% this month.
+4,2025-08,43740,23655,W1,4438,,,Bills are unusually high this month.
+4,2025-08,43740,23655,W2,6004,,,Bills are unusually high this month.
+4,2025-08,43740,23655,W3,6939,,,Bills are unusually high this month.
+4,2025-08,43740,23655,W4,5119,,,Bills are unusually high this month.
+4,2025-08,43740,23655,,,Food,2559,Bills are unusually high this month.
+4,2025-08,43740,23655,,,Travel,6306,Bills are unusually high this month.
+4,2025-08,43740,23655,,,Bills,3626,Bills are unusually high this month.
+4,2025-08,43740,23655,,,Shopping,5643,Bills are unusually high this month.
+4,2025-08,43740,23655,,,Entertainment,7115,Bills are unusually high this month.
+4,2025-08,43740,23655,,,Misc,2840,Bills are unusually high this month.
+4,2025-09,48197,23661,W1,4033,,,Entertainment spending increased 18%.
+4,2025-09,48197,23661,W2,6812,,,Entertainment spending increased 18%.
+4,2025-09,48197,23661,W3,4034,,,Entertainment spending increased 18%.
+4,2025-09,48197,23661,W4,5309,,,Entertainment spending increased 18%.
+4,2025-09,48197,23661,,,Food,2003,Entertainment spending increased 18%.
+4,2025-09,48197,23661,,,Travel,6023,Entertainment spending increased 18%.
+4,2025-09,48197,23661,,,Bills,1275,Entertainment spending increased 18%.
+4,2025-09,48197,23661,,,Shopping,1639,Entertainment spending increased 18%.
+4,2025-09,48197,23661,,,Entertainment,3713,Entertainment spending increased 18%.
+4,2025-09,48197,23661,,,Misc,6682,Entertainment spending increased 18%.
+4,2025-10,50372,22763,W1,6692,,,Travel spending is stable.
+4,2025-10,50372,22763,W2,6585,,,Travel spending is stable.
+4,2025-10,50372,22763,W3,4991,,,Travel spending is stable.
+4,2025-10,50372,22763,W4,5606,,,Travel spending is stable.
+4,2025-10,50372,22763,,,Food,4734,Travel spending is stable.
+4,2025-10,50372,22763,,,Travel,2567,Travel spending is stable.
+4,2025-10,50372,22763,,,Bills,968,Travel spending is stable.
+4,2025-10,50372,22763,,,Shopping,7312,Travel spending is stable.
+4,2025-10,50372,22763,,,Entertainment,7108,Travel spending is stable.
+4,2025-10,50372,22763,,,Misc,1775,Travel spending is stable.
+4,2025-11,46720,23510,W1,4221,,,Good job! Your spending is controlled.
+4,2025-11,46720,23510,W2,4853,,,Good job! Your spending is controlled.
+4,2025-11,46720,23510,W3,5840,,,Good job! Your spending is controlled.
+4,2025-11,46720,23510,W4,6828,,,Good job! Your spending is controlled.
+4,2025-11,46720,23510,,,Food,3959,Good job! Your spending is controlled.
+4,2025-11,46720,23510,,,Travel,5741,Good job! Your spending is controlled.
+4,2025-11,46720,23510,,,Bills,5296,Good job! Your spending is controlled.
+4,2025-11,46720,23510,,,Shopping,7638,Good job! Your spending is controlled.
+4,2025-11,46720,23510,,,Entertainment,2671,Good job! Your spending is controlled.
+4,2025-11,46720,23510,,,Misc,7489,Good job! Your spending is controlled.
+5,2025-06,44114,19990,W1,6845,,,You're overspending on Food this month.
+5,2025-06,44114,19990,W2,5029,,,You're overspending on Food this month.
+5,2025-06,44114,19990,W3,6841,,,You're overspending on Food this month.
+5,2025-06,44114,19990,W4,5544,,,You're overspending on Food this month.
+5,2025-06,44114,19990,,,Food,1012,You're overspending on Food this month.
+5,2025-06,44114,19990,,,Travel,4055,You're overspending on Food this month.
+5,2025-06,44114,19990,,,Bills,6128,You're overspending on Food this month.
+5,2025-06,44114,19990,,,Shopping,7751,You're overspending on Food this month.
+5,2025-06,44114,19990,,,Entertainment,2767,You're overspending on Food this month.
+5,2025-06,44114,19990,,,Misc,7283,You're overspending on Food this month.
+5,2025-07,46478,20476,W1,5891,,,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,W2,5513,,,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,W3,4167,,,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,W4,5794,,,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,,,Food,1648,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,,,Travel,6398,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,,,Bills,6650,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,,,Shopping,2646,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,,,Entertainment,7840,Travel costs increased by 12% this month.
+5,2025-07,46478,20476,,,Misc,2514,Travel costs increased by 12% this month.
+5,2025-08,46721,20637,W1,4044,,,Bills are unusually high this month.
+5,2025-08,46721,20637,W2,6879,,,Bills are unusually high this month.
+5,2025-08,46721,20637,W3,5768,,,Bills are unusually high this month.
+5,2025-08,46721,20637,W4,6749,,,Bills are unusually high this month.
+5,2025-08,46721,20637,,,Food,6031,Bills are unusually high this month.
+5,2025-08,46721,20637,,,Travel,3678,Bills are unusually high this month.
+5,2025-08,46721,20637,,,Bills,1391,Bills are unusually high this month.
+5,2025-08,46721,20637,,,Shopping,1234,Bills are unusually high this month.
+5,2025-08,46721,20637,,,Entertainment,5611,Bills are unusually high this month.
+5,2025-08,46721,20637,,,Misc,6698,Bills are unusually high this month.
+5,2025-09,49209,20478,W1,6195,,,Entertainment spending increased 18%.
+5,2025-09,49209,20478,W2,6308,,,Entertainment spending increased 18%.
+5,2025-09,49209,20478,W3,4766,,,Entertainment spending increased 18%.
+5,2025-09,49209,20478,W4,5385,,,Entertainment spending increased 18%.
+5,2025-09,49209,20478,,,Food,1073,Entertainment spending increased 18%.
+5,2025-09,49209,20478,,,Travel,5366,Entertainment spending increased 18%.
+5,2025-09,49209,20478,,,Bills,1621,Entertainment spending increased 18%.
+5,2025-09,49209,20478,,,Shopping,1425,Entertainment spending increased 18%.
+5,2025-09,49209,20478,,,Entertainment,1356,Entertainment spending increased 18%.
+5,2025-09,49209,20478,,,Misc,5818,Entertainment spending increased 18%.
+5,2025-10,44740,20972,W1,6263,,,Travel spending is stable.
+5,2025-10,44740,20972,W2,5220,,,Travel spending is stable.
+5,2025-10,44740,20972,W3,5574,,,Travel spending is stable.
+5,2025-10,44740,20972,W4,4297,,,Travel spending is stable.
+5,2025-10,44740,20972,,,Food,1438,Travel spending is stable.
+5,2025-10,44740,20972,,,Travel,978,Travel spending is stable.
+5,2025-10,44740,20972,,,Bills,4277,Travel spending is stable.
+5,2025-10,44740,20972,,,Shopping,1091,Travel spending is stable.
+5,2025-10,44740,20972,,,Entertainment,7445,Travel spending is stable.
+5,2025-10,44740,20972,,,Misc,6319,Travel spending is stable.
+5,2025-11,43108,22029,W1,5965,,,Good job! Your spending is controlled.
+5,2025-11,43108,22029,W2,6778,,,Good job! Your spending is controlled.
+5,2025-11,43108,22029,W3,6041,,,Good job! Your spending is controlled.
+5,2025-11,43108,22029,W4,5598,,,Good job! Your spending is controlled.
+5,2025-11,43108,22029,,,Food,820,Good job! Your spending is controlled.
+5,2025-11,43108,22029,,,Travel,6568,Good job! Your spending is controlled.
+5,2025-11,43108,22029,,,Bills,3771,Good job! Your spending is controlled.
+5,2025-11,43108,22029,,,Shopping,3439,Good job! Your spending is controlled.
+5,2025-11,43108,22029,,,Entertainment,6572,Good job! Your spending is controlled.
+5,2025-11,43108,22029,,,Misc,1536,Good job! Your spending is controlled.
+6,2025-06,51203,22181,W1,5799,,,You're overspending on Food this month.
+6,2025-06,51203,22181,W2,6737,,,You're overspending on Food this month.
+6,2025-06,51203,22181,W3,5709,,,You're overspending on Food this month.
+6,2025-06,51203,22181,W4,6532,,,You're overspending on Food this month.
+6,2025-06,51203,22181,,,Food,4560,You're overspending on Food this month.
+6,2025-06,51203,22181,,,Travel,1220,You're overspending on Food this month.
+6,2025-06,51203,22181,,,Bills,7006,You're overspending on Food this month.
+6,2025-06,51203,22181,,,Shopping,2596,You're overspending on Food this month.
+6,2025-06,51203,22181,,,Entertainment,2665,You're overspending on Food this month.
+6,2025-06,51203,22181,,,Misc,5849,You're overspending on Food this month.
+6,2025-07,50521,23806,W1,5468,,,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,W2,5107,,,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,W3,5744,,,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,W4,4912,,,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,,,Food,7436,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,,,Travel,1743,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,,,Bills,1759,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,,,Shopping,5180,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,,,Entertainment,1031,Travel costs increased by 12% this month.
+6,2025-07,50521,23806,,,Misc,2156,Travel costs increased by 12% this month.
+6,2025-08,45663,20867,W1,5258,,,Bills are unusually high this month.
+6,2025-08,45663,20867,W2,5538,,,Bills are unusually high this month.
+6,2025-08,45663,20867,W3,5073,,,Bills are unusually high this month.
+6,2025-08,45663,20867,W4,4940,,,Bills are unusually high this month.
+6,2025-08,45663,20867,,,Food,3058,Bills are unusually high this month.
+6,2025-08,45663,20867,,,Travel,6701,Bills are unusually high this month.
+6,2025-08,45663,20867,,,Bills,7063,Bills are unusually high this month.
+6,2025-08,45663,20867,,,Shopping,5123,Bills are unusually high this month.
+6,2025-08,45663,20867,,,Entertainment,6809,Bills are unusually high this month.
+6,2025-08,45663,20867,,,Misc,7199,Bills are unusually high this month.
+6,2025-09,46155,20305,W1,4075,,,Entertainment spending increased 18%.
+6,2025-09,46155,20305,W2,4737,,,Entertainment spending increased 18%.
+6,2025-09,46155,20305,W3,6872,,,Entertainment spending increased 18%.
+6,2025-09,46155,20305,W4,5858,,,Entertainment spending increased 18%.
+6,2025-09,46155,20305,,,Food,3858,Entertainment spending increased 18%.
+6,2025-09,46155,20305,,,Travel,5102,Entertainment spending increased 18%.
+6,2025-09,46155,20305,,,Bills,2985,Entertainment spending increased 18%.
+6,2025-09,46155,20305,,,Shopping,6580,Entertainment spending increased 18%.
+6,2025-09,46155,20305,,,Entertainment,7935,Entertainment spending increased 18%.
+6,2025-09,46155,20305,,,Misc,1899,Entertainment spending increased 18%.
+6,2025-10,49288,20912,W1,6721,,,Travel spending is stable.
+6,2025-10,49288,20912,W2,4467,,,Travel spending is stable.
+6,2025-10,49288,20912,W3,6349,,,Travel spending is stable.
+6,2025-10,49288,20912,W4,5940,,,Travel spending is stable.
+6,2025-10,49288,20912,,,Food,5140,Travel spending is stable.
+6,2025-10,49288,20912,,,Travel,2325,Travel spending is stable.
+6,2025-10,49288,20912,,,Bills,7552,Travel spending is stable.
+6,2025-10,49288,20912,,,Shopping,2795,Travel spending is stable.
+6,2025-10,49288,20912,,,Entertainment,7741,Travel spending is stable.
+6,2025-10,49288,20912,,,Misc,2785,Travel spending is stable.
+6,2025-11,44221,20978,W1,4533,,,Good job! Your spending is controlled.
+6,2025-11,44221,20978,W2,4830,,,Good job! Your spending is controlled.
+6,2025-11,44221,20978,W3,4319,,,Good job! Your spending is controlled.
+6,2025-11,44221,20978,W4,4626,,,Good job! Your spending is controlled.
+6,2025-11,44221,20978,,,Food,3130,Good job! Your spending is controlled.
+6,2025-11,44221,20978,,,Travel,7662,Good job! Your spending is controlled.
+6,2025-11,44221,20978,,,Bills,7028,Good job! Your spending is controlled.
+6,2025-11,44221,20978,,,Shopping,5442,Good job! Your spending is controlled.
+6,2025-11,44221,20978,,,Entertainment,7904,Good job! Your spending is controlled.
+6,2025-11,44221,20978,,,Misc,2040,Good job! Your spending is controlled.
+7,2025-06,50863,24224,W1,5407,,,You're overspending on Food this month.
+7,2025-06,50863,24224,W2,6299,,,You're overspending on Food this month.
+7,2025-06,50863,24224,W3,4286,,,You're overspending on Food this month.
+7,2025-06,50863,24224,W4,4786,,,You're overspending on Food this month.
+7,2025-06,50863,24224,,,Food,2187,You're overspending on Food this month.
+7,2025-06,50863,24224,,,Travel,2794,You're overspending on Food this month.
+7,2025-06,50863,24224,,,Bills,5781,You're overspending on Food this month.
+7,2025-06,50863,24224,,,Shopping,5196,You're overspending on Food this month.
+7,2025-06,50863,24224,,,Entertainment,2958,You're overspending on Food this month.
+7,2025-06,50863,24224,,,Misc,6218,You're overspending on Food this month.
+7,2025-07,43473,23523,W1,5265,,,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,W2,4471,,,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,W3,4191,,,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,W4,6015,,,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,,,Food,3425,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,,,Travel,6958,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,,,Bills,2191,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,,,Shopping,2659,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,,,Entertainment,2945,Travel costs increased by 12% this month.
+7,2025-07,43473,23523,,,Misc,6182,Travel costs increased by 12% this month.
+7,2025-08,45595,25549,W1,4715,,,Bills are unusually high this month.
+7,2025-08,45595,25549,W2,4122,,,Bills are unusually high this month.
+7,2025-08,45595,25549,W3,6061,,,Bills are unusually high this month.
+7,2025-08,45595,25549,W4,6614,,,Bills are unusually high this month.
+7,2025-08,45595,25549,,,Food,6663,Bills are unusually high this month.
+7,2025-08,45595,25549,,,Travel,4349,Bills are unusually high this month.
+7,2025-08,45595,25549,,,Bills,4292,Bills are unusually high this month.
+7,2025-08,45595,25549,,,Shopping,2310,Bills are unusually high this month.
+7,2025-08,45595,25549,,,Entertainment,3173,Bills are unusually high this month.
+7,2025-08,45595,25549,,,Misc,2894,Bills are unusually high this month.
+7,2025-09,45455,20926,W1,4179,,,Entertainment spending increased 18%.
+7,2025-09,45455,20926,W2,4474,,,Entertainment spending increased 18%.
+7,2025-09,45455,20926,W3,5299,,,Entertainment spending increased 18%.
+7,2025-09,45455,20926,W4,5954,,,Entertainment spending increased 18%.
+7,2025-09,45455,20926,,,Food,2928,Entertainment spending increased 18%.
+7,2025-09,45455,20926,,,Travel,1373,Entertainment spending increased 18%.
+7,2025-09,45455,20926,,,Bills,4894,Entertainment spending increased 18%.
+7,2025-09,45455,20926,,,Shopping,3403,Entertainment spending increased 18%.
+7,2025-09,45455,20926,,,Entertainment,3596,Entertainment spending increased 18%.
+7,2025-09,45455,20926,,,Misc,6687,Entertainment spending increased 18%.
+7,2025-10,43804,25162,W1,5463,,,Travel spending is stable.
+7,2025-10,43804,25162,W2,4334,,,Travel spending is stable.
+7,2025-10,43804,25162,W3,5986,,,Travel spending is stable.
+7,2025-10,43804,25162,W4,4080,,,Travel spending is stable.
+7,2025-10,43804,25162,,,Food,6016,Travel spending is stable.
+7,2025-10,43804,25162,,,Travel,1417,Travel spending is stable.
+7,2025-10,43804,25162,,,Bills,3487,Travel spending is stable.
+7,2025-10,43804,25162,,,Shopping,5426,Travel spending is stable.
+7,2025-10,43804,25162,,,Entertainment,5192,Travel spending is stable.
+7,2025-10,43804,25162,,,Misc,6070,Travel spending is stable.
+7,2025-11,49032,22802,W1,4692,,,Good job! Your spending is controlled.
+7,2025-11,49032,22802,W2,4368,,,Good job! Your spending is controlled.
+7,2025-11,49032,22802,W3,4750,,,Good job! Your spending is controlled.
+7,2025-11,49032,22802,W4,4704,,,Good job! Your spending is controlled.
+7,2025-11,49032,22802,,,Food,1930,Good job! Your spending is controlled.
+7,2025-11,49032,22802,,,Travel,7786,Good job! Your spending is controlled.
+7,2025-11,49032,22802,,,Bills,7159,Good job! Your spending is controlled.
+7,2025-11,49032,22802,,,Shopping,6513,Good job! Your spending is controlled.
+7,2025-11,49032,22802,,,Entertainment,5134,Good job! Your spending is controlled.
+7,2025-11,49032,22802,,,Misc,4726,Good job! Your spending is controlled.
+8,2025-06,45716,24112,W1,4624,,,You're overspending on Food this month.
+8,2025-06,45716,24112,W2,4281,,,You're overspending on Food this month.
+8,2025-06,45716,24112,W3,6140,,,You're overspending on Food this month.
+8,2025-06,45716,24112,W4,4320,,,You're overspending on Food this month.
+8,2025-06,45716,24112,,,Food,7584,You're overspending on Food this month.
+8,2025-06,45716,24112,,,Travel,3910,You're overspending on Food this month.
+8,2025-06,45716,24112,,,Bills,1224,You're overspending on Food this month.
+8,2025-06,45716,24112,,,Shopping,5313,You're overspending on Food this month.
+8,2025-06,45716,24112,,,Entertainment,6633,You're overspending on Food this month.
+8,2025-06,45716,24112,,,Misc,5221,You're overspending on Food this month.
+8,2025-07,51880,22693,W1,6532,,,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,W2,5356,,,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,W3,6474,,,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,W4,4200,,,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,,,Food,6816,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,,,Travel,2051,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,,,Bills,6976,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,,,Shopping,2371,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,,,Entertainment,7926,Travel costs increased by 12% this month.
+8,2025-07,51880,22693,,,Misc,5612,Travel costs increased by 12% this month.
+8,2025-08,43885,24544,W1,4515,,,Bills are unusually high this month.
+8,2025-08,43885,24544,W2,4248,,,Bills are unusually high this month.
+8,2025-08,43885,24544,W3,6442,,,Bills are unusually high this month.
+8,2025-08,43885,24544,W4,5560,,,Bills are unusually high this month.
+8,2025-08,43885,24544,,,Food,6467,Bills are unusually high this month.
+8,2025-08,43885,24544,,,Travel,2737,Bills are unusually high this month.
+8,2025-08,43885,24544,,,Bills,3056,Bills are unusually high this month.
+8,2025-08,43885,24544,,,Shopping,1321,Bills are unusually high this month.
+8,2025-08,43885,24544,,,Entertainment,2166,Bills are unusually high this month.
+8,2025-08,43885,24544,,,Misc,6996,Bills are unusually high this month.
+8,2025-09,42787,22341,W1,6378,,,Entertainment spending increased 18%.
+8,2025-09,42787,22341,W2,5669,,,Entertainment spending increased 18%.
+8,2025-09,42787,22341,W3,4814,,,Entertainment spending increased 18%.
+8,2025-09,42787,22341,W4,5176,,,Entertainment spending increased 18%.
+8,2025-09,42787,22341,,,Food,1753,Entertainment spending increased 18%.
+8,2025-09,42787,22341,,,Travel,1815,Entertainment spending increased 18%.
+8,2025-09,42787,22341,,,Bills,5682,Entertainment spending increased 18%.
+8,2025-09,42787,22341,,,Shopping,3188,Entertainment spending increased 18%.
+8,2025-09,42787,22341,,,Entertainment,4001,Entertainment spending increased 18%.
+8,2025-09,42787,22341,,,Misc,5367,Entertainment spending increased 18%.
+8,2025-10,50758,24560,W1,6212,,,Travel spending is stable.
+8,2025-10,50758,24560,W2,4843,,,Travel spending is stable.
+8,2025-10,50758,24560,W3,5923,,,Travel spending is stable.
+8,2025-10,50758,24560,W4,5449,,,Travel spending is stable.
+8,2025-10,50758,24560,,,Food,3361,Travel spending is stable.
+8,2025-10,50758,24560,,,Travel,3538,Travel spending is stable.
+8,2025-10,50758,24560,,,Bills,5495,Travel spending is stable.
+8,2025-10,50758,24560,,,Shopping,1620,Travel spending is stable.
+8,2025-10,50758,24560,,,Entertainment,5737,Travel spending is stable.
+8,2025-10,50758,24560,,,Misc,6380,Travel spending is stable.
+8,2025-11,48837,22709,W1,4639,,,Good job! Your spending is controlled.
+8,2025-11,48837,22709,W2,6831,,,Good job! Your spending is controlled.
+8,2025-11,48837,22709,W3,5927,,,Good job! Your spending is controlled.
+8,2025-11,48837,22709,W4,4494,,,Good job! Your spending is controlled.
+8,2025-11,48837,22709,,,Food,2892,Good job! Your spending is controlled.
+8,2025-11,48837,22709,,,Travel,7972,Good job! Your spending is controlled.
+8,2025-11,48837,22709,,,Bills,7247,Good job! Your spending is controlled.
+8,2025-11,48837,22709,,,Shopping,1031,Good job! Your spending is controlled.
+8,2025-11,48837,22709,,,Entertainment,7384,Good job! Your spending is controlled.
+8,2025-11,48837,22709,,,Misc,2137,Good job! Your spending is controlled.
+9,2025-06,50402,25935,W1,6852,,,You're overspending on Food this month.
+9,2025-06,50402,25935,W2,6318,,,You're overspending on Food this month.
+9,2025-06,50402,25935,W3,5212,,,You're overspending on Food this month.
+9,2025-06,50402,25935,W4,4273,,,You're overspending on Food this month.
+9,2025-06,50402,25935,,,Food,3767,You're overspending on Food this month.
+9,2025-06,50402,25935,,,Travel,6231,You're overspending on Food this month.
+9,2025-06,50402,25935,,,Bills,4271,You're overspending on Food this month.
+9,2025-06,50402,25935,,,Shopping,2516,You're overspending on Food this month.
+9,2025-06,50402,25935,,,Entertainment,2031,You're overspending on Food this month.
+9,2025-06,50402,25935,,,Misc,1983,You're overspending on Food this month.
+9,2025-07,46205,25514,W1,4819,,,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,W2,4561,,,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,W3,5973,,,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,W4,4748,,,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,,,Food,7128,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,,,Travel,3830,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,,,Bills,7845,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,,,Shopping,7529,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,,,Entertainment,6442,Travel costs increased by 12% this month.
+9,2025-07,46205,25514,,,Misc,7732,Travel costs increased by 12% this month.
+9,2025-08,49470,21167,W1,4769,,,Bills are unusually high this month.
+9,2025-08,49470,21167,W2,6139,,,Bills are unusually high this month.
+9,2025-08,49470,21167,W3,4250,,,Bills are unusually high this month.
+9,2025-08,49470,21167,W4,4527,,,Bills are unusually high this month.
+9,2025-08,49470,21167,,,Food,5318,Bills are unusually high this month.
+9,2025-08,49470,21167,,,Travel,5060,Bills are unusually high this month.
+9,2025-08,49470,21167,,,Bills,6055,Bills are unusually high this month.
+9,2025-08,49470,21167,,,Shopping,1219,Bills are unusually high this month.
+9,2025-08,49470,21167,,,Entertainment,7056,Bills are unusually high this month.
+9,2025-08,49470,21167,,,Misc,1418,Bills are unusually high this month.
+9,2025-09,49026,24669,W1,4127,,,Entertainment spending increased 18%.
+9,2025-09,49026,24669,W2,6121,,,Entertainment spending increased 18%.
+9,2025-09,49026,24669,W3,4861,,,Entertainment spending increased 18%.
+9,2025-09,49026,24669,W4,5706,,,Entertainment spending increased 18%.
+9,2025-09,49026,24669,,,Food,994,Entertainment spending increased 18%.
+9,2025-09,49026,24669,,,Travel,6531,Entertainment spending increased 18%.
+9,2025-09,49026,24669,,,Bills,1018,Entertainment spending increased 18%.
+9,2025-09,49026,24669,,,Shopping,3303,Entertainment spending increased 18%.
+9,2025-09,49026,24669,,,Entertainment,2605,Entertainment spending increased 18%.
+9,2025-09,49026,24669,,,Misc,7793,Entertainment spending increased 18%.
+9,2025-10,51589,25783,W1,5153,,,Travel spending is stable.
+9,2025-10,51589,25783,W2,5285,,,Travel spending is stable.
+9,2025-10,51589,25783,W3,4033,,,Travel spending is stable.
+9,2025-10,51589,25783,W4,6073,,,Travel spending is stable.
+9,2025-10,51589,25783,,,Food,3351,Travel spending is stable.
+9,2025-10,51589,25783,,,Travel,5659,Travel spending is stable.
+9,2025-10,51589,25783,,,Bills,1610,Travel spending is stable.
+9,2025-10,51589,25783,,,Shopping,3812,Travel spending is stable.
+9,2025-10,51589,25783,,,Entertainment,2131,Travel spending is stable.
+9,2025-10,51589,25783,,,Misc,5609,Travel spending is stable.
+9,2025-11,45018,21054,W1,6875,,,Good job! Your spending is controlled.
+9,2025-11,45018,21054,W2,5930,,,Good job! Your spending is controlled.
+9,2025-11,45018,21054,W3,6736,,,Good job! Your spending is controlled.
+9,2025-11,45018,21054,W4,5938,,,Good job! Your spending is controlled.
+9,2025-11,45018,21054,,,Food,5340,Good job! Your spending is controlled.
+9,2025-11,45018,21054,,,Travel,7770,Good job! Your spending is controlled.
+9,2025-11,45018,21054,,,Bills,2381,Good job! Your spending is controlled.
+9,2025-11,45018,21054,,,Shopping,6582,Good job! Your spending is controlled.
+9,2025-11,45018,21054,,,Entertainment,4002,Good job! Your spending is controlled.
+9,2025-11,45018,21054,,,Misc,3824,Good job! Your spending is controlled.
+10,2025-06,51173,20485,W1,4190,,,You're overspending on Food this month.
+10,2025-06,51173,20485,W2,4090,,,You're overspending on Food this month.
+10,2025-06,51173,20485,W3,4025,,,You're overspending on Food this month.
+10,2025-06,51173,20485,W4,4862,,,You're overspending on Food this month.
+10,2025-06,51173,20485,,,Food,1773,You're overspending on Food this month.
+10,2025-06,51173,20485,,,Travel,4716,You're overspending on Food this month.
+10,2025-06,51173,20485,,,Bills,7126,You're overspending on Food this month.
+10,2025-06,51173,20485,,,Shopping,3300,You're overspending on Food this month.
+10,2025-06,51173,20485,,,Entertainment,6024,You're overspending on Food this month.
+10,2025-06,51173,20485,,,Misc,1946,You're overspending on Food this month.
+10,2025-07,48239,25980,W1,5241,,,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,W2,6316,,,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,W3,4738,,,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,W4,5618,,,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,,,Food,3803,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,,,Travel,7202,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,,,Bills,2089,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,,,Shopping,7806,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,,,Entertainment,3640,Travel costs increased by 12% this month.
+10,2025-07,48239,25980,,,Misc,4053,Travel costs increased by 12% this month.
+10,2025-08,44103,24914,W1,5838,,,Bills are unusually high this month.
+10,2025-08,44103,24914,W2,4611,,,Bills are unusually high this month.
+10,2025-08,44103,24914,W3,4004,,,Bills are unusually high this month.
+10,2025-08,44103,24914,W4,6779,,,Bills are unusually high this month.
+10,2025-08,44103,24914,,,Food,6383,Bills are unusually high this month.
+10,2025-08,44103,24914,,,Travel,3381,Bills are unusually high this month.
+10,2025-08,44103,24914,,,Bills,1507,Bills are unusually high this month.
+10,2025-08,44103,24914,,,Shopping,1453,Bills are unusually high this month.
+10,2025-08,44103,24914,,,Entertainment,7889,Bills are unusually high this month.
+10,2025-08,44103,24914,,,Misc,3499,Bills are unusually high this month.
+10,2025-09,46458,23981,W1,4905,,,Entertainment spending increased 18%.
+10,2025-09,46458,23981,W2,4550,,,Entertainment spending increased 18%.
+10,2025-09,46458,23981,W3,4508,,,Entertainment spending increased 18%.
+10,2025-09,46458,23981,W4,4866,,,Entertainment spending increased 18%.
+10,2025-09,46458,23981,,,Food,7836,Entertainment spending increased 18%.
+10,2025-09,46458,23981,,,Travel,4818,Entertainment spending increased 18%.
+10,2025-09,46458,23981,,,Bills,5045,Entertainment spending increased 18%.
+10,2025-09,46458,23981,,,Shopping,7395,Entertainment spending increased 18%.
+10,2025-09,46458,23981,,,Entertainment,3896,Entertainment spending increased 18%.
+10,2025-09,46458,23981,,,Misc,4247,Entertainment spending increased 18%.
+10,2025-10,43621,20175,W1,4787,,,Travel spending is stable.
+10,2025-10,43621,20175,W2,4829,,,Travel spending is stable.
+10,2025-10,43621,20175,W3,5752,,,Travel spending is stable.
+10,2025-10,43621,20175,W4,6084,,,Travel spending is stable.
+10,2025-10,43621,20175,,,Food,1432,Travel spending is stable.
+10,2025-10,43621,20175,,,Travel,7006,Travel spending is stable.
+10,2025-10,43621,20175,,,Bills,5289,Travel spending is stable.
+10,2025-10,43621,20175,,,Shopping,1196,Travel spending is stable.
+10,2025-10,43621,20175,,,Entertainment,1597,Travel spending is stable.
+10,2025-10,43621,20175,,,Misc,4114,Travel spending is stable.
+10,2025-11,51154,23870,W1,4189,,,Good job! Your spending is controlled.
+10,2025-11,51154,23870,W2,6093,,,Good job! Your spending is controlled.
+10,2025-11,51154,23870,W3,4550,,,Good job! Your spending is controlled.
+10,2025-11,51154,23870,W4,4620,,,Good job! Your spending is controlled.
+10,2025-11,51154,23870,,,Food,6859,Good job! Your spending is controlled.
+10,2025-11,51154,23870,,,Travel,6940,Good job! Your spending is controlled.
+10,2025-11,51154,23870,,,Bills,2920,Good job! Your spending is controlled.
+10,2025-11,51154,23870,,,Shopping,1268,Good job! Your spending is controlled.
+10,2025-11,51154,23870,,,Entertainment,2574,Good job! Your spending is controlled.
+10,2025-11,51154,23870,,,Misc,5379,Good job! Your spending is controlled.
+11,2025-06,44827,21986,W1,4651,,,You're overspending on Food this month.
+11,2025-06,44827,21986,W2,6155,,,You're overspending on Food this month.
+11,2025-06,44827,21986,W3,4983,,,You're overspending on Food this month.
+11,2025-06,44827,21986,W4,6790,,,You're overspending on Food this month.
+11,2025-06,44827,21986,,,Food,4837,You're overspending on Food this month.
+11,2025-06,44827,21986,,,Travel,4258,You're overspending on Food this month.
+11,2025-06,44827,21986,,,Bills,3171,You're overspending on Food this month.
+11,2025-06,44827,21986,,,Shopping,3183,You're overspending on Food this month.
+11,2025-06,44827,21986,,,Entertainment,6838,You're overspending on Food this month.
+11,2025-06,44827,21986,,,Misc,3497,You're overspending on Food this month.
+11,2025-07,42848,20222,W1,6887,,,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,W2,5222,,,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,W3,5038,,,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,W4,4981,,,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,,,Food,6536,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,,,Travel,6042,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,,,Bills,6624,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,,,Shopping,2902,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,,,Entertainment,2701,Travel costs increased by 12% this month.
+11,2025-07,42848,20222,,,Misc,4236,Travel costs increased by 12% this month.
+11,2025-08,46924,18122,W1,6762,,,Bills are unusually high this month.
+11,2025-08,46924,18122,W2,6003,,,Bills are unusually high this month.
+11,2025-08,46924,18122,W3,5542,,,Bills are unusually high this month.
+11,2025-08,46924,18122,W4,4460,,,Bills are unusually high this month.
+11,2025-08,46924,18122,,,Food,4789,Bills are unusually high this month.
+11,2025-08,46924,18122,,,Travel,7120,Bills are unusually high this month.
+11,2025-08,46924,18122,,,Bills,2529,Bills are unusually high this month.
+11,2025-08,46924,18122,,,Shopping,5650,Bills are unusually high this month.
+11,2025-08,46924,18122,,,Entertainment,5827,Bills are unusually high this month.
+11,2025-08,46924,18122,,,Misc,4429,Bills are unusually high this month.
+11,2025-09,51639,20123,W1,5284,,,Entertainment spending increased 18%.
+11,2025-09,51639,20123,W2,5958,,,Entertainment spending increased 18%.
+11,2025-09,51639,20123,W3,4750,,,Entertainment spending increased 18%.
+11,2025-09,51639,20123,W4,6532,,,Entertainment spending increased 18%.
+11,2025-09,51639,20123,,,Food,3147,Entertainment spending increased 18%.
+11,2025-09,51639,20123,,,Travel,7056,Entertainment spending increased 18%.
+11,2025-09,51639,20123,,,Bills,2633,Entertainment spending increased 18%.
+11,2025-09,51639,20123,,,Shopping,3554,Entertainment spending increased 18%.
+11,2025-09,51639,20123,,,Entertainment,2679,Entertainment spending increased 18%.
+11,2025-09,51639,20123,,,Misc,3545,Entertainment spending increased 18%.
+11,2025-10,48455,18389,W1,6934,,,Travel spending is stable.
+11,2025-10,48455,18389,W2,5547,,,Travel spending is stable.
+11,2025-10,48455,18389,W3,4131,,,Travel spending is stable.
+11,2025-10,48455,18389,W4,4831,,,Travel spending is stable.
+11,2025-10,48455,18389,,,Food,4115,Travel spending is stable.
+11,2025-10,48455,18389,,,Travel,1056,Travel spending is stable.
+11,2025-10,48455,18389,,,Bills,7205,Travel spending is stable.
+11,2025-10,48455,18389,,,Shopping,3008,Travel spending is stable.
+11,2025-10,48455,18389,,,Entertainment,6065,Travel spending is stable.
+11,2025-10,48455,18389,,,Misc,2721,Travel spending is stable.
+11,2025-11,49728,20624,W1,6667,,,Good job! Your spending is controlled.
+11,2025-11,49728,20624,W2,4249,,,Good job! Your spending is controlled.
+11,2025-11,49728,20624,W3,6862,,,Good job! Your spending is controlled.
+11,2025-11,49728,20624,W4,6340,,,Good job! Your spending is controlled.
+11,2025-11,49728,20624,,,Food,2510,Good job! Your spending is controlled.
+11,2025-11,49728,20624,,,Travel,7245,Good job! Your spending is controlled.
+11,2025-11,49728,20624,,,Bills,4442,Good job! Your spending is controlled.
+11,2025-11,49728,20624,,,Shopping,6327,Good job! Your spending is controlled.
+11,2025-11,49728,20624,,,Entertainment,1992,Good job! Your spending is controlled.
+11,2025-11,49728,20624,,,Misc,1116,Good job! Your spending is controlled.
+12,2025-06,44762,25096,W1,5137,,,You're overspending on Food this month.
+12,2025-06,44762,25096,W2,5567,,,You're overspending on Food this month.
+12,2025-06,44762,25096,W3,6367,,,You're overspending on Food this month.
+12,2025-06,44762,25096,W4,4863,,,You're overspending on Food this month.
+12,2025-06,44762,25096,,,Food,7172,You're overspending on Food this month.
+12,2025-06,44762,25096,,,Travel,7907,You're overspending on Food this month.
+12,2025-06,44762,25096,,,Bills,2263,You're overspending on Food this month.
+12,2025-06,44762,25096,,,Shopping,5288,You're overspending on Food this month.
+12,2025-06,44762,25096,,,Entertainment,4554,You're overspending on Food this month.
+12,2025-06,44762,25096,,,Misc,7422,You're overspending on Food this month.
+12,2025-07,50650,18303,W1,4550,,,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,W2,5534,,,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,W3,5426,,,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,W4,5224,,,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,,,Food,4521,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,,,Travel,7243,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,,,Bills,7735,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,,,Shopping,1316,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,,,Entertainment,4798,Travel costs increased by 12% this month.
+12,2025-07,50650,18303,,,Misc,3537,Travel costs increased by 12% this month.
+12,2025-08,45753,21917,W1,6715,,,Bills are unusually high this month.
+12,2025-08,45753,21917,W2,4155,,,Bills are unusually high this month.
+12,2025-08,45753,21917,W3,6401,,,Bills are unusually high this month.
+12,2025-08,45753,21917,W4,4672,,,Bills are unusually high this month.
+12,2025-08,45753,21917,,,Food,5543,Bills are unusually high this month.
+12,2025-08,45753,21917,,,Travel,5078,Bills are unusually high this month.
+12,2025-08,45753,21917,,,Bills,5730,Bills are unusually high this month.
+12,2025-08,45753,21917,,,Shopping,2906,Bills are unusually high this month.
+12,2025-08,45753,21917,,,Entertainment,2588,Bills are unusually high this month.
+12,2025-08,45753,21917,,,Misc,6502,Bills are unusually high this month.
+12,2025-09,51254,23810,W1,6828,,,Entertainment spending increased 18%.
+12,2025-09,51254,23810,W2,4555,,,Entertainment spending increased 18%.
+12,2025-09,51254,23810,W3,6130,,,Entertainment spending increased 18%.
+12,2025-09,51254,23810,W4,5404,,,Entertainment spending increased 18%.
+12,2025-09,51254,23810,,,Food,1300,Entertainment spending increased 18%.
+12,2025-09,51254,23810,,,Travel,5593,Entertainment spending increased 18%.
+12,2025-09,51254,23810,,,Bills,7413,Entertainment spending increased 18%.
+12,2025-09,51254,23810,,,Shopping,6866,Entertainment spending increased 18%.
+12,2025-09,51254,23810,,,Entertainment,6295,Entertainment spending increased 18%.
+12,2025-09,51254,23810,,,Misc,6650,Entertainment spending increased 18%.
+12,2025-10,48064,24527,W1,5562,,,Travel spending is stable.
+12,2025-10,48064,24527,W2,6325,,,Travel spending is stable.
+12,2025-10,48064,24527,W3,5384,,,Travel spending is stable.
+12,2025-10,48064,24527,W4,5402,,,Travel spending is stable.
+12,2025-10,48064,24527,,,Food,4109,Travel spending is stable.
+12,2025-10,48064,24527,,,Travel,7210,Travel spending is stable.
+12,2025-10,48064,24527,,,Bills,5491,Travel spending is stable.
+12,2025-10,48064,24527,,,Shopping,841,Travel spending is stable.
+12,2025-10,48064,24527,,,Entertainment,958,Travel spending is stable.
+12,2025-10,48064,24527,,,Misc,4386,Travel spending is stable.
+12,2025-11,50636,18159,W1,4408,,,Good job! Your spending is controlled.
+12,2025-11,50636,18159,W2,5116,,,Good job! Your spending is controlled.
+12,2025-11,50636,18159,W3,4923,,,Good job! Your spending is controlled.
+12,2025-11,50636,18159,W4,6136,,,Good job! Your spending is controlled.
+12,2025-11,50636,18159,,,Food,2229,Good job! Your spending is controlled.
+12,2025-11,50636,18159,,,Travel,4123,Good job! Your spending is controlled.
+12,2025-11,50636,18159,,,Bills,859,Good job! Your spending is controlled.
+12,2025-11,50636,18159,,,Shopping,7529,Good job! Your spending is controlled.
+12,2025-11,50636,18159,,,Entertainment,3762,Good job! Your spending is controlled.
+12,2025-11,50636,18159,,,Misc,3838,Good job! Your spending is controlled.
+13,2025-06,42436,21726,W1,6982,,,You're overspending on Food this month.
+13,2025-06,42436,21726,W2,4537,,,You're overspending on Food this month.
+13,2025-06,42436,21726,W3,5830,,,You're overspending on Food this month.
+13,2025-06,42436,21726,W4,5817,,,You're overspending on Food this month.
+13,2025-06,42436,21726,,,Food,3871,You're overspending on Food this month.
+13,2025-06,42436,21726,,,Travel,5934,You're overspending on Food this month.
+13,2025-06,42436,21726,,,Bills,2475,You're overspending on Food this month.
+13,2025-06,42436,21726,,,Shopping,2656,You're overspending on Food this month.
+13,2025-06,42436,21726,,,Entertainment,1951,You're overspending on Food this month.
+13,2025-06,42436,21726,,,Misc,7170,You're overspending on Food this month.
+13,2025-07,51695,21630,W1,5645,,,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,W2,5913,,,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,W3,6771,,,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,W4,4941,,,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,,,Food,6704,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,,,Travel,3319,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,,,Bills,879,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,,,Shopping,5277,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,,,Entertainment,1661,Travel costs increased by 12% this month.
+13,2025-07,51695,21630,,,Misc,7931,Travel costs increased by 12% this month.
+13,2025-08,46101,24967,W1,6559,,,Bills are unusually high this month.
+13,2025-08,46101,24967,W2,6887,,,Bills are unusually high this month.
+13,2025-08,46101,24967,W3,4992,,,Bills are unusually high this month.
+13,2025-08,46101,24967,W4,5119,,,Bills are unusually high this month.
+13,2025-08,46101,24967,,,Food,1601,Bills are unusually high this month.
+13,2025-08,46101,24967,,,Travel,2686,Bills are unusually high this month.
+13,2025-08,46101,24967,,,Bills,3184,Bills are unusually high this month.
+13,2025-08,46101,24967,,,Shopping,4295,Bills are unusually high this month.
+13,2025-08,46101,24967,,,Entertainment,5148,Bills are unusually high this month.
+13,2025-08,46101,24967,,,Misc,4463,Bills are unusually high this month.
+13,2025-09,43194,18244,W1,5215,,,Entertainment spending increased 18%.
+13,2025-09,43194,18244,W2,4622,,,Entertainment spending increased 18%.
+13,2025-09,43194,18244,W3,4304,,,Entertainment spending increased 18%.
+13,2025-09,43194,18244,W4,6648,,,Entertainment spending increased 18%.
+13,2025-09,43194,18244,,,Food,1725,Entertainment spending increased 18%.
+13,2025-09,43194,18244,,,Travel,5937,Entertainment spending increased 18%.
+13,2025-09,43194,18244,,,Bills,1859,Entertainment spending increased 18%.
+13,2025-09,43194,18244,,,Shopping,4759,Entertainment spending increased 18%.
+13,2025-09,43194,18244,,,Entertainment,6514,Entertainment spending increased 18%.
+13,2025-09,43194,18244,,,Misc,2632,Entertainment spending increased 18%.
+13,2025-10,44415,20036,W1,5957,,,Travel spending is stable.
+13,2025-10,44415,20036,W2,5384,,,Travel spending is stable.
+13,2025-10,44415,20036,W3,4599,,,Travel spending is stable.
+13,2025-10,44415,20036,W4,6000,,,Travel spending is stable.
+13,2025-10,44415,20036,,,Food,6957,Travel spending is stable.
+13,2025-10,44415,20036,,,Travel,3658,Travel spending is stable.
+13,2025-10,44415,20036,,,Bills,1457,Travel spending is stable.
+13,2025-10,44415,20036,,,Shopping,1815,Travel spending is stable.
+13,2025-10,44415,20036,,,Entertainment,6191,Travel spending is stable.
+13,2025-10,44415,20036,,,Misc,4247,Travel spending is stable.
+13,2025-11,49119,22936,W1,5476,,,Good job! Your spending is controlled.
+13,2025-11,49119,22936,W2,4419,,,Good job! Your spending is controlled.
+13,2025-11,49119,22936,W3,6357,,,Good job! Your spending is controlled.
+13,2025-11,49119,22936,W4,6272,,,Good job! Your spending is controlled.
+13,2025-11,49119,22936,,,Food,5574,Good job! Your spending is controlled.
+13,2025-11,49119,22936,,,Travel,2365,Good job! Your spending is controlled.
+13,2025-11,49119,22936,,,Bills,2535,Good job! Your spending is controlled.
+13,2025-11,49119,22936,,,Shopping,6953,Good job! Your spending is controlled.
+13,2025-11,49119,22936,,,Entertainment,2221,Good job! Your spending is controlled.
+13,2025-11,49119,22936,,,Misc,1358,Good job! Your spending is controlled.
+14,2025-06,47468,20844,W1,6397,,,You're overspending on Food this month.
+14,2025-06,47468,20844,W2,4232,,,You're overspending on Food this month.
+14,2025-06,47468,20844,W3,6682,,,You're overspending on Food this month.
+14,2025-06,47468,20844,W4,5376,,,You're overspending on Food this month.
+14,2025-06,47468,20844,,,Food,5736,You're overspending on Food this month.
+14,2025-06,47468,20844,,,Travel,4654,You're overspending on Food this month.
+14,2025-06,47468,20844,,,Bills,866,You're overspending on Food this month.
+14,2025-06,47468,20844,,,Shopping,1812,You're overspending on Food this month.
+14,2025-06,47468,20844,,,Entertainment,1552,You're overspending on Food this month.
+14,2025-06,47468,20844,,,Misc,940,You're overspending on Food this month.
+14,2025-07,45104,22085,W1,6811,,,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,W2,4279,,,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,W3,5279,,,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,W4,5277,,,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,,,Food,7488,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,,,Travel,1847,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,,,Bills,7271,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,,,Shopping,4491,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,,,Entertainment,1340,Travel costs increased by 12% this month.
+14,2025-07,45104,22085,,,Misc,7313,Travel costs increased by 12% this month.
+14,2025-08,49787,24814,W1,6673,,,Bills are unusually high this month.
+14,2025-08,49787,24814,W2,5613,,,Bills are unusually high this month.
+14,2025-08,49787,24814,W3,6873,,,Bills are unusually high this month.
+14,2025-08,49787,24814,W4,6276,,,Bills are unusually high this month.
+14,2025-08,49787,24814,,,Food,6970,Bills are unusually high this month.
+14,2025-08,49787,24814,,,Travel,990,Bills are unusually high this month.
+14,2025-08,49787,24814,,,Bills,3064,Bills are unusually high this month.
+14,2025-08,49787,24814,,,Shopping,4679,Bills are unusually high this month.
+14,2025-08,49787,24814,,,Entertainment,2836,Bills are unusually high this month.
+14,2025-08,49787,24814,,,Misc,2759,Bills are unusually high this month.
+14,2025-09,47424,25911,W1,4634,,,Entertainment spending increased 18%.
+14,2025-09,47424,25911,W2,4478,,,Entertainment spending increased 18%.
+14,2025-09,47424,25911,W3,6292,,,Entertainment spending increased 18%.
+14,2025-09,47424,25911,W4,4022,,,Entertainment spending increased 18%.
+14,2025-09,47424,25911,,,Food,6087,Entertainment spending increased 18%.
+14,2025-09,47424,25911,,,Travel,6138,Entertainment spending increased 18%.
+14,2025-09,47424,25911,,,Bills,7184,Entertainment spending increased 18%.
+14,2025-09,47424,25911,,,Shopping,2874,Entertainment spending increased 18%.
+14,2025-09,47424,25911,,,Entertainment,3473,Entertainment spending increased 18%.
+14,2025-09,47424,25911,,,Misc,7223,Entertainment spending increased 18%.
+14,2025-10,48795,19156,W1,6940,,,Travel spending is stable.
+14,2025-10,48795,19156,W2,5712,,,Travel spending is stable.
+14,2025-10,48795,19156,W3,5805,,,Travel spending is stable.
+14,2025-10,48795,19156,W4,5863,,,Travel spending is stable.
+14,2025-10,48795,19156,,,Food,5542,Travel spending is stable.
+14,2025-10,48795,19156,,,Travel,1886,Travel spending is stable.
+14,2025-10,48795,19156,,,Bills,949,Travel spending is stable.
+14,2025-10,48795,19156,,,Shopping,3189,Travel spending is stable.
+14,2025-10,48795,19156,,,Entertainment,4980,Travel spending is stable.
+14,2025-10,48795,19156,,,Misc,3702,Travel spending is stable.
+14,2025-11,46287,23278,W1,4584,,,Good job! Your spending is controlled.
+14,2025-11,46287,23278,W2,5167,,,Good job! Your spending is controlled.
+14,2025-11,46287,23278,W3,4021,,,Good job! Your spending is controlled.
+14,2025-11,46287,23278,W4,4091,,,Good job! Your spending is controlled.
+14,2025-11,46287,23278,,,Food,2192,Good job! Your spending is controlled.
+14,2025-11,46287,23278,,,Travel,1036,Good job! Your spending is controlled.
+14,2025-11,46287,23278,,,Bills,4694,Good job! Your spending is controlled.
+14,2025-11,46287,23278,,,Shopping,4436,Good job! Your spending is controlled.
+14,2025-11,46287,23278,,,Entertainment,7748,Good job! Your spending is controlled.
+14,2025-11,46287,23278,,,Misc,3922,Good job! Your spending is controlled.
+15,2025-06,46613,23516,W1,5076,,,You're overspending on Food this month.
+15,2025-06,46613,23516,W2,6730,,,You're overspending on Food this month.
+15,2025-06,46613,23516,W3,5006,,,You're overspending on Food this month.
+15,2025-06,46613,23516,W4,5975,,,You're overspending on Food this month.
+15,2025-06,46613,23516,,,Food,7164,You're overspending on Food this month.
+15,2025-06,46613,23516,,,Travel,3122,You're overspending on Food this month.
+15,2025-06,46613,23516,,,Bills,1071,You're overspending on Food this month.
+15,2025-06,46613,23516,,,Shopping,7376,You're overspending on Food this month.
+15,2025-06,46613,23516,,,Entertainment,3860,You're overspending on Food this month.
+15,2025-06,46613,23516,,,Misc,5268,You're overspending on Food this month.
+15,2025-07,48518,25120,W1,4190,,,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,W2,4483,,,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,W3,6262,,,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,W4,5240,,,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,,,Food,7801,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,,,Travel,7402,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,,,Bills,6047,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,,,Shopping,5563,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,,,Entertainment,3437,Travel costs increased by 12% this month.
+15,2025-07,48518,25120,,,Misc,3288,Travel costs increased by 12% this month.
+15,2025-08,46397,19022,W1,4622,,,Bills are unusually high this month.
+15,2025-08,46397,19022,W2,4416,,,Bills are unusually high this month.
+15,2025-08,46397,19022,W3,4666,,,Bills are unusually high this month.
+15,2025-08,46397,19022,W4,6372,,,Bills are unusually high this month.
+15,2025-08,46397,19022,,,Food,5698,Bills are unusually high this month.
+15,2025-08,46397,19022,,,Travel,1562,Bills are unusually high this month.
+15,2025-08,46397,19022,,,Bills,3623,Bills are unusually high this month.
+15,2025-08,46397,19022,,,Shopping,6323,Bills are unusually high this month.
+15,2025-08,46397,19022,,,Entertainment,7767,Bills are unusually high this month.
+15,2025-08,46397,19022,,,Misc,6703,Bills are unusually high this month.
+15,2025-09,45020,20875,W1,5247,,,Entertainment spending increased 18%.
+15,2025-09,45020,20875,W2,4269,,,Entertainment spending increased 18%.
+15,2025-09,45020,20875,W3,6440,,,Entertainment spending increased 18%.
+15,2025-09,45020,20875,W4,4029,,,Entertainment spending increased 18%.
+15,2025-09,45020,20875,,,Food,5508,Entertainment spending increased 18%.
+15,2025-09,45020,20875,,,Travel,3189,Entertainment spending increased 18%.
+15,2025-09,45020,20875,,,Bills,4512,Entertainment spending increased 18%.
+15,2025-09,45020,20875,,,Shopping,1904,Entertainment spending increased 18%.
+15,2025-09,45020,20875,,,Entertainment,6603,Entertainment spending increased 18%.
+15,2025-09,45020,20875,,,Misc,3028,Entertainment spending increased 18%.
+15,2025-10,47488,21430,W1,6648,,,Travel spending is stable.
+15,2025-10,47488,21430,W2,6140,,,Travel spending is stable.
+15,2025-10,47488,21430,W3,4556,,,Travel spending is stable.
+15,2025-10,47488,21430,W4,4870,,,Travel spending is stable.
+15,2025-10,47488,21430,,,Food,4384,Travel spending is stable.
+15,2025-10,47488,21430,,,Travel,2012,Travel spending is stable.
+15,2025-10,47488,21430,,,Bills,1872,Travel spending is stable.
+15,2025-10,47488,21430,,,Shopping,4237,Travel spending is stable.
+15,2025-10,47488,21430,,,Entertainment,961,Travel spending is stable.
+15,2025-10,47488,21430,,,Misc,4429,Travel spending is stable.
+15,2025-11,47289,24332,W1,4206,,,Good job! Your spending is controlled.
+15,2025-11,47289,24332,W2,4290,,,Good job! Your spending is controlled.
+15,2025-11,47289,24332,W3,5021,,,Good job! Your spending is controlled.
+15,2025-11,47289,24332,W4,6488,,,Good job! Your spending is controlled.
+15,2025-11,47289,24332,,,Food,1077,Good job! Your spending is controlled.
+15,2025-11,47289,24332,,,Travel,3654,Good job! Your spending is controlled.
+15,2025-11,47289,24332,,,Bills,7937,Good job! Your spending is controlled.
+15,2025-11,47289,24332,,,Shopping,7940,Good job! Your spending is controlled.
+15,2025-11,47289,24332,,,Entertainment,7341,Good job! Your spending is controlled.
+15,2025-11,47289,24332,,,Misc,883,Good job! Your spending is controlled.
+16,2025-06,44515,21647,W1,6463,,,You're overspending on Food this month.
+16,2025-06,44515,21647,W2,4924,,,You're overspending on Food this month.
+16,2025-06,44515,21647,W3,6237,,,You're overspending on Food this month.
+16,2025-06,44515,21647,W4,4190,,,You're overspending on Food this month.
+16,2025-06,44515,21647,,,Food,6701,You're overspending on Food this month.
+16,2025-06,44515,21647,,,Travel,2471,You're overspending on Food this month.
+16,2025-06,44515,21647,,,Bills,5386,You're overspending on Food this month.
+16,2025-06,44515,21647,,,Shopping,6795,You're overspending on Food this month.
+16,2025-06,44515,21647,,,Entertainment,6101,You're overspending on Food this month.
+16,2025-06,44515,21647,,,Misc,7663,You're overspending on Food this month.
+16,2025-07,46725,25670,W1,6430,,,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,W2,4401,,,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,W3,6712,,,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,W4,6130,,,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,,,Food,7280,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,,,Travel,4913,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,,,Bills,1840,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,,,Shopping,5920,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,,,Entertainment,5671,Travel costs increased by 12% this month.
+16,2025-07,46725,25670,,,Misc,7721,Travel costs increased by 12% this month.
+16,2025-08,48439,22433,W1,6176,,,Bills are unusually high this month.
+16,2025-08,48439,22433,W2,5092,,,Bills are unusually high this month.
+16,2025-08,48439,22433,W3,4255,,,Bills are unusually high this month.
+16,2025-08,48439,22433,W4,4849,,,Bills are unusually high this month.
+16,2025-08,48439,22433,,,Food,5970,Bills are unusually high this month.
+16,2025-08,48439,22433,,,Travel,952,Bills are unusually high this month.
+16,2025-08,48439,22433,,,Bills,3271,Bills are unusually high this month.
+16,2025-08,48439,22433,,,Shopping,7251,Bills are unusually high this month.
+16,2025-08,48439,22433,,,Entertainment,3476,Bills are unusually high this month.
+16,2025-08,48439,22433,,,Misc,3442,Bills are unusually high this month.
+16,2025-09,46189,21887,W1,4852,,,Entertainment spending increased 18%.
+16,2025-09,46189,21887,W2,5030,,,Entertainment spending increased 18%.
+16,2025-09,46189,21887,W3,6326,,,Entertainment spending increased 18%.
+16,2025-09,46189,21887,W4,4046,,,Entertainment spending increased 18%.
+16,2025-09,46189,21887,,,Food,6041,Entertainment spending increased 18%.
+16,2025-09,46189,21887,,,Travel,6078,Entertainment spending increased 18%.
+16,2025-09,46189,21887,,,Bills,5336,Entertainment spending increased 18%.
+16,2025-09,46189,21887,,,Shopping,1989,Entertainment spending increased 18%.
+16,2025-09,46189,21887,,,Entertainment,2433,Entertainment spending increased 18%.
+16,2025-09,46189,21887,,,Misc,2443,Entertainment spending increased 18%.
+16,2025-10,49731,23036,W1,6256,,,Travel spending is stable.
+16,2025-10,49731,23036,W2,6513,,,Travel spending is stable.
+16,2025-10,49731,23036,W3,6627,,,Travel spending is stable.
+16,2025-10,49731,23036,W4,6903,,,Travel spending is stable.
+16,2025-10,49731,23036,,,Food,3105,Travel spending is stable.
+16,2025-10,49731,23036,,,Travel,1876,Travel spending is stable.
+16,2025-10,49731,23036,,,Bills,7460,Travel spending is stable.
+16,2025-10,49731,23036,,,Shopping,4291,Travel spending is stable.
+16,2025-10,49731,23036,,,Entertainment,1986,Travel spending is stable.
+16,2025-10,49731,23036,,,Misc,7637,Travel spending is stable.
+16,2025-11,44787,22120,W1,4087,,,Good job! Your spending is controlled.
+16,2025-11,44787,22120,W2,6134,,,Good job! Your spending is controlled.
+16,2025-11,44787,22120,W3,4415,,,Good job! Your spending is controlled.
+16,2025-11,44787,22120,W4,4508,,,Good job! Your spending is controlled.
+16,2025-11,44787,22120,,,Food,857,Good job! Your spending is controlled.
+16,2025-11,44787,22120,,,Travel,5077,Good job! Your spending is controlled.
+16,2025-11,44787,22120,,,Bills,2174,Good job! Your spending is controlled.
+16,2025-11,44787,22120,,,Shopping,6090,Good job! Your spending is controlled.
+16,2025-11,44787,22120,,,Entertainment,3126,Good job! Your spending is controlled.
+16,2025-11,44787,22120,,,Misc,1239,Good job! Your spending is controlled.
+17,2025-06,49745,24299,W1,4472,,,You're overspending on Food this month.
+17,2025-06,49745,24299,W2,5112,,,You're overspending on Food this month.
+17,2025-06,49745,24299,W3,4665,,,You're overspending on Food this month.
+17,2025-06,49745,24299,W4,4668,,,You're overspending on Food this month.
+17,2025-06,49745,24299,,,Food,2550,You're overspending on Food this month.
+17,2025-06,49745,24299,,,Travel,2238,You're overspending on Food this month.
+17,2025-06,49745,24299,,,Bills,7125,You're overspending on Food this month.
+17,2025-06,49745,24299,,,Shopping,2622,You're overspending on Food this month.
+17,2025-06,49745,24299,,,Entertainment,2416,You're overspending on Food this month.
+17,2025-06,49745,24299,,,Misc,1716,You're overspending on Food this month.
+17,2025-07,51558,18442,W1,6975,,,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,W2,4603,,,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,W3,5409,,,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,W4,4944,,,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,,,Food,7202,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,,,Travel,1959,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,,,Bills,4877,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,,,Shopping,6760,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,,,Entertainment,1255,Travel costs increased by 12% this month.
+17,2025-07,51558,18442,,,Misc,1867,Travel costs increased by 12% this month.
+17,2025-08,46948,23180,W1,6092,,,Bills are unusually high this month.
+17,2025-08,46948,23180,W2,4059,,,Bills are unusually high this month.
+17,2025-08,46948,23180,W3,5261,,,Bills are unusually high this month.
+17,2025-08,46948,23180,W4,5044,,,Bills are unusually high this month.
+17,2025-08,46948,23180,,,Food,7758,Bills are unusually high this month.
+17,2025-08,46948,23180,,,Travel,806,Bills are unusually high this month.
+17,2025-08,46948,23180,,,Bills,1896,Bills are unusually high this month.
+17,2025-08,46948,23180,,,Shopping,6717,Bills are unusually high this month.
+17,2025-08,46948,23180,,,Entertainment,7490,Bills are unusually high this month.
+17,2025-08,46948,23180,,,Misc,7760,Bills are unusually high this month.
+17,2025-09,48166,19416,W1,4560,,,Entertainment spending increased 18%.
+17,2025-09,48166,19416,W2,6561,,,Entertainment spending increased 18%.
+17,2025-09,48166,19416,W3,4800,,,Entertainment spending increased 18%.
+17,2025-09,48166,19416,W4,6459,,,Entertainment spending increased 18%.
+17,2025-09,48166,19416,,,Food,1377,Entertainment spending increased 18%.
+17,2025-09,48166,19416,,,Travel,1142,Entertainment spending increased 18%.
+17,2025-09,48166,19416,,,Bills,7030,Entertainment spending increased 18%.
+17,2025-09,48166,19416,,,Shopping,6833,Entertainment spending increased 18%.
+17,2025-09,48166,19416,,,Entertainment,6158,Entertainment spending increased 18%.
+17,2025-09,48166,19416,,,Misc,1183,Entertainment spending increased 18%.
+17,2025-10,49350,21879,W1,4918,,,Travel spending is stable.
+17,2025-10,49350,21879,W2,5710,,,Travel spending is stable.
+17,2025-10,49350,21879,W3,4711,,,Travel spending is stable.
+17,2025-10,49350,21879,W4,6499,,,Travel spending is stable.
+17,2025-10,49350,21879,,,Food,3857,Travel spending is stable.
+17,2025-10,49350,21879,,,Travel,7043,Travel spending is stable.
+17,2025-10,49350,21879,,,Bills,5774,Travel spending is stable.
+17,2025-10,49350,21879,,,Shopping,3135,Travel spending is stable.
+17,2025-10,49350,21879,,,Entertainment,1485,Travel spending is stable.
+17,2025-10,49350,21879,,,Misc,7882,Travel spending is stable.
+17,2025-11,50346,25406,W1,5736,,,Good job! Your spending is controlled.
+17,2025-11,50346,25406,W2,4189,,,Good job! Your spending is controlled.
+17,2025-11,50346,25406,W3,5967,,,Good job! Your spending is controlled.
+17,2025-11,50346,25406,W4,6546,,,Good job! Your spending is controlled.
+17,2025-11,50346,25406,,,Food,7463,Good job! Your spending is controlled.
+17,2025-11,50346,25406,,,Travel,3473,Good job! Your spending is controlled.
+17,2025-11,50346,25406,,,Bills,1516,Good job! Your spending is controlled.
+17,2025-11,50346,25406,,,Shopping,6420,Good job! Your spending is controlled.
+17,2025-11,50346,25406,,,Entertainment,3351,Good job! Your spending is controlled.
+17,2025-11,50346,25406,,,Misc,1641,Good job! Your spending is controlled.
+18,2025-06,44526,21485,W1,6025,,,You're overspending on Food this month.
+18,2025-06,44526,21485,W2,5449,,,You're overspending on Food this month.
+18,2025-06,44526,21485,W3,6702,,,You're overspending on Food this month.
+18,2025-06,44526,21485,W4,6851,,,You're overspending on Food this month.
+18,2025-06,44526,21485,,,Food,1911,You're overspending on Food this month.
+18,2025-06,44526,21485,,,Travel,4307,You're overspending on Food this month.
+18,2025-06,44526,21485,,,Bills,4204,You're overspending on Food this month.
+18,2025-06,44526,21485,,,Shopping,7844,You're overspending on Food this month.
+18,2025-06,44526,21485,,,Entertainment,1379,You're overspending on Food this month.
+18,2025-06,44526,21485,,,Misc,5495,You're overspending on Food this month.
+18,2025-07,50599,24101,W1,5312,,,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,W2,5771,,,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,W3,6559,,,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,W4,6545,,,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,,,Food,3433,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,,,Travel,4767,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,,,Bills,3643,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,,,Shopping,5164,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,,,Entertainment,4086,Travel costs increased by 12% this month.
+18,2025-07,50599,24101,,,Misc,5079,Travel costs increased by 12% this month.
+18,2025-08,46418,19748,W1,5851,,,Bills are unusually high this month.
+18,2025-08,46418,19748,W2,6267,,,Bills are unusually high this month.
+18,2025-08,46418,19748,W3,4634,,,Bills are unusually high this month.
+18,2025-08,46418,19748,W4,6287,,,Bills are unusually high this month.
+18,2025-08,46418,19748,,,Food,2948,Bills are unusually high this month.
+18,2025-08,46418,19748,,,Travel,6305,Bills are unusually high this month.
+18,2025-08,46418,19748,,,Bills,5890,Bills are unusually high this month.
+18,2025-08,46418,19748,,,Shopping,6494,Bills are unusually high this month.
+18,2025-08,46418,19748,,,Entertainment,2873,Bills are unusually high this month.
+18,2025-08,46418,19748,,,Misc,2198,Bills are unusually high this month.
+18,2025-09,47835,18479,W1,5178,,,Entertainment spending increased 18%.
+18,2025-09,47835,18479,W2,6277,,,Entertainment spending increased 18%.
+18,2025-09,47835,18479,W3,6098,,,Entertainment spending increased 18%.
+18,2025-09,47835,18479,W4,4149,,,Entertainment spending increased 18%.
+18,2025-09,47835,18479,,,Food,7262,Entertainment spending increased 18%.
+18,2025-09,47835,18479,,,Travel,1528,Entertainment spending increased 18%.
+18,2025-09,47835,18479,,,Bills,7912,Entertainment spending increased 18%.
+18,2025-09,47835,18479,,,Shopping,3036,Entertainment spending increased 18%.
+18,2025-09,47835,18479,,,Entertainment,6528,Entertainment spending increased 18%.
+18,2025-09,47835,18479,,,Misc,6075,Entertainment spending increased 18%.
+18,2025-10,48681,18571,W1,5167,,,Travel spending is stable.
+18,2025-10,48681,18571,W2,5816,,,Travel spending is stable.
+18,2025-10,48681,18571,W3,4540,,,Travel spending is stable.
+18,2025-10,48681,18571,W4,4163,,,Travel spending is stable.
+18,2025-10,48681,18571,,,Food,7532,Travel spending is stable.
+18,2025-10,48681,18571,,,Travel,2725,Travel spending is stable.
+18,2025-10,48681,18571,,,Bills,2555,Travel spending is stable.
+18,2025-10,48681,18571,,,Shopping,4928,Travel spending is stable.
+18,2025-10,48681,18571,,,Entertainment,1375,Travel spending is stable.
+18,2025-10,48681,18571,,,Misc,6765,Travel spending is stable.
+18,2025-11,49363,20390,W1,5131,,,Good job! Your spending is controlled.
+18,2025-11,49363,20390,W2,6895,,,Good job! Your spending is controlled.
+18,2025-11,49363,20390,W3,4186,,,Good job! Your spending is controlled.
+18,2025-11,49363,20390,W4,5676,,,Good job! Your spending is controlled.
+18,2025-11,49363,20390,,,Food,4401,Good job! Your spending is controlled.
+18,2025-11,49363,20390,,,Travel,6638,Good job! Your spending is controlled.
+18,2025-11,49363,20390,,,Bills,7051,Good job! Your spending is controlled.
+18,2025-11,49363,20390,,,Shopping,1383,Good job! Your spending is controlled.
+18,2025-11,49363,20390,,,Entertainment,7616,Good job! Your spending is controlled.
+18,2025-11,49363,20390,,,Misc,4232,Good job! Your spending is controlled.
+19,2025-06,49492,22989,W1,6429,,,You're overspending on Food this month.
+19,2025-06,49492,22989,W2,4344,,,You're overspending on Food this month.
+19,2025-06,49492,22989,W3,5891,,,You're overspending on Food this month.
+19,2025-06,49492,22989,W4,4354,,,You're overspending on Food this month.
+19,2025-06,49492,22989,,,Food,4148,You're overspending on Food this month.
+19,2025-06,49492,22989,,,Travel,1869,You're overspending on Food this month.
+19,2025-06,49492,22989,,,Bills,7261,You're overspending on Food this month.
+19,2025-06,49492,22989,,,Shopping,4865,You're overspending on Food this month.
+19,2025-06,49492,22989,,,Entertainment,5701,You're overspending on Food this month.
+19,2025-06,49492,22989,,,Misc,3609,You're overspending on Food this month.
+19,2025-07,47216,24752,W1,5076,,,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,W2,6319,,,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,W3,6512,,,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,W4,6700,,,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,,,Food,2793,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,,,Travel,3400,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,,,Bills,3366,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,,,Shopping,7604,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,,,Entertainment,1282,Travel costs increased by 12% this month.
+19,2025-07,47216,24752,,,Misc,7238,Travel costs increased by 12% this month.
+19,2025-08,51172,24920,W1,5873,,,Bills are unusually high this month.
+19,2025-08,51172,24920,W2,5575,,,Bills are unusually high this month.
+19,2025-08,51172,24920,W3,5587,,,Bills are unusually high this month.
+19,2025-08,51172,24920,W4,4023,,,Bills are unusually high this month.
+19,2025-08,51172,24920,,,Food,7225,Bills are unusually high this month.
+19,2025-08,51172,24920,,,Travel,7687,Bills are unusually high this month.
+19,2025-08,51172,24920,,,Bills,3036,Bills are unusually high this month.
+19,2025-08,51172,24920,,,Shopping,1557,Bills are unusually high this month.
+19,2025-08,51172,24920,,,Entertainment,7063,Bills are unusually high this month.
+19,2025-08,51172,24920,,,Misc,3258,Bills are unusually high this month.
+19,2025-09,42125,20478,W1,6938,,,Entertainment spending increased 18%.
+19,2025-09,42125,20478,W2,5375,,,Entertainment spending increased 18%.
+19,2025-09,42125,20478,W3,4642,,,Entertainment spending increased 18%.
+19,2025-09,42125,20478,W4,5494,,,Entertainment spending increased 18%.
+19,2025-09,42125,20478,,,Food,7997,Entertainment spending increased 18%.
+19,2025-09,42125,20478,,,Travel,4842,Entertainment spending increased 18%.
+19,2025-09,42125,20478,,,Bills,7553,Entertainment spending increased 18%.
+19,2025-09,42125,20478,,,Shopping,5602,Entertainment spending increased 18%.
+19,2025-09,42125,20478,,,Entertainment,2799,Entertainment spending increased 18%.
+19,2025-09,42125,20478,,,Misc,2600,Entertainment spending increased 18%.
+19,2025-10,43913,19090,W1,4482,,,Travel spending is stable.
+19,2025-10,43913,19090,W2,4060,,,Travel spending is stable.
+19,2025-10,43913,19090,W3,6126,,,Travel spending is stable.
+19,2025-10,43913,19090,W4,5299,,,Travel spending is stable.
+19,2025-10,43913,19090,,,Food,6563,Travel spending is stable.
+19,2025-10,43913,19090,,,Travel,5463,Travel spending is stable.
+19,2025-10,43913,19090,,,Bills,7493,Travel spending is stable.
+19,2025-10,43913,19090,,,Shopping,7654,Travel spending is stable.
+19,2025-10,43913,19090,,,Entertainment,2888,Travel spending is stable.
+19,2025-10,43913,19090,,,Misc,3587,Travel spending is stable.
+19,2025-11,45057,21833,W1,5544,,,Good job! Your spending is controlled.
+19,2025-11,45057,21833,W2,4805,,,Good job! Your spending is controlled.
+19,2025-11,45057,21833,W3,5042,,,Good job! Your spending is controlled.
+19,2025-11,45057,21833,W4,5455,,,Good job! Your spending is controlled.
+19,2025-11,45057,21833,,,Food,2445,Good job! Your spending is controlled.
+19,2025-11,45057,21833,,,Travel,2173,Good job! Your spending is controlled.
+19,2025-11,45057,21833,,,Bills,2319,Good job! Your spending is controlled.
+19,2025-11,45057,21833,,,Shopping,2931,Good job! Your spending is controlled.
+19,2025-11,45057,21833,,,Entertainment,1606,Good job! Your spending is controlled.
+19,2025-11,45057,21833,,,Misc,3408,Good job! Your spending is controlled.
+20,2025-06,42168,25708,W1,4275,,,You're overspending on Food this month.
+20,2025-06,42168,25708,W2,4171,,,You're overspending on Food this month.
+20,2025-06,42168,25708,W3,5924,,,You're overspending on Food this month.
+20,2025-06,42168,25708,W4,6579,,,You're overspending on Food this month.
+20,2025-06,42168,25708,,,Food,6963,You're overspending on Food this month.
+20,2025-06,42168,25708,,,Travel,5359,You're overspending on Food this month.
+20,2025-06,42168,25708,,,Bills,3012,You're overspending on Food this month.
+20,2025-06,42168,25708,,,Shopping,7026,You're overspending on Food this month.
+20,2025-06,42168,25708,,,Entertainment,7001,You're overspending on Food this month.
+20,2025-06,42168,25708,,,Misc,2544,You're overspending on Food this month.
+20,2025-07,42855,23045,W1,6496,,,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,W2,5079,,,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,W3,4173,,,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,W4,5032,,,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,,,Food,1413,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,,,Travel,3270,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,,,Bills,1934,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,,,Shopping,1469,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,,,Entertainment,4990,Travel costs increased by 12% this month.
+20,2025-07,42855,23045,,,Misc,2360,Travel costs increased by 12% this month.
+20,2025-08,46427,25477,W1,4312,,,Bills are unusually high this month.
+20,2025-08,46427,25477,W2,4323,,,Bills are unusually high this month.
+20,2025-08,46427,25477,W3,6788,,,Bills are unusually high this month.
+20,2025-08,46427,25477,W4,5220,,,Bills are unusually high this month.
+20,2025-08,46427,25477,,,Food,2000,Bills are unusually high this month.
+20,2025-08,46427,25477,,,Travel,3460,Bills are unusually high this month.
+20,2025-08,46427,25477,,,Bills,4842,Bills are unusually high this month.
+20,2025-08,46427,25477,,,Shopping,5767,Bills are unusually high this month.
+20,2025-08,46427,25477,,,Entertainment,6096,Bills are unusually high this month.
+20,2025-08,46427,25477,,,Misc,4871,Bills are unusually high this month.
+20,2025-09,51095,23970,W1,6486,,,Entertainment spending increased 18%.
+20,2025-09,51095,23970,W2,4679,,,Entertainment spending increased 18%.
+20,2025-09,51095,23970,W3,5425,,,Entertainment spending increased 18%.
+20,2025-09,51095,23970,W4,5306,,,Entertainment spending increased 18%.
+20,2025-09,51095,23970,,,Food,2866,Entertainment spending increased 18%.
+20,2025-09,51095,23970,,,Travel,1607,Entertainment spending increased 18%.
+20,2025-09,51095,23970,,,Bills,7682,Entertainment spending increased 18%.
+20,2025-09,51095,23970,,,Shopping,6220,Entertainment spending increased 18%.
+20,2025-09,51095,23970,,,Entertainment,5395,Entertainment spending increased 18%.
+20,2025-09,51095,23970,,,Misc,4303,Entertainment spending increased 18%.
+20,2025-10,46676,20173,W1,6127,,,Travel spending is stable.
+20,2025-10,46676,20173,W2,4901,,,Travel spending is stable.
+20,2025-10,46676,20173,W3,4305,,,Travel spending is stable.
+20,2025-10,46676,20173,W4,4426,,,Travel spending is stable.
+20,2025-10,46676,20173,,,Food,7517,Travel spending is stable.
+20,2025-10,46676,20173,,,Travel,7264,Travel spending is stable.
+20,2025-10,46676,20173,,,Bills,6096,Travel spending is stable.
+20,2025-10,46676,20173,,,Shopping,1942,Travel spending is stable.
+20,2025-10,46676,20173,,,Entertainment,1721,Travel spending is stable.
+20,2025-10,46676,20173,,,Misc,2813,Travel spending is stable.
+20,2025-11,46563,18387,W1,4499,,,Good job! Your spending is controlled.
+20,2025-11,46563,18387,W2,4365,,,Good job! Your spending is controlled.
+20,2025-11,46563,18387,W3,6227,,,Good job! Your spending is controlled.
+20,2025-11,46563,18387,W4,4534,,,Good job! Your spending is controlled.
+20,2025-11,46563,18387,,,Food,4970,Good job! Your spending is controlled.
+20,2025-11,46563,18387,,,Travel,6871,Good job! Your spending is controlled.
+20,2025-11,46563,18387,,,Bills,815,Good job! Your spending is controlled.
+20,2025-11,46563,18387,,,Shopping,6463,Good job! Your spending is controlled.
+20,2025-11,46563,18387,,,Entertainment,5560,Good job! Your spending is controlled.
+20,2025-11,46563,18387,,,Misc,1273,Good job! Your spending is controlled.
+21,2025-06,45997,24716,W1,5848,,,You're overspending on Food this month.
+21,2025-06,45997,24716,W2,5263,,,You're overspending on Food this month.
+21,2025-06,45997,24716,W3,4723,,,You're overspending on Food this month.
+21,2025-06,45997,24716,W4,4931,,,You're overspending on Food this month.
+21,2025-06,45997,24716,,,Food,2840,You're overspending on Food this month.
+21,2025-06,45997,24716,,,Travel,7172,You're overspending on Food this month.
+21,2025-06,45997,24716,,,Bills,953,You're overspending on Food this month.
+21,2025-06,45997,24716,,,Shopping,5117,You're overspending on Food this month.
+21,2025-06,45997,24716,,,Entertainment,7164,You're overspending on Food this month.
+21,2025-06,45997,24716,,,Misc,4686,You're overspending on Food this month.
+21,2025-07,47519,24299,W1,4233,,,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,W2,5138,,,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,W3,5784,,,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,W4,6497,,,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,,,Food,2037,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,,,Travel,5963,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,,,Bills,4178,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,,,Shopping,6078,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,,,Entertainment,5102,Travel costs increased by 12% this month.
+21,2025-07,47519,24299,,,Misc,5339,Travel costs increased by 12% this month.
+21,2025-08,44679,20658,W1,6905,,,Bills are unusually high this month.
+21,2025-08,44679,20658,W2,6570,,,Bills are unusually high this month.
+21,2025-08,44679,20658,W3,4391,,,Bills are unusually high this month.
+21,2025-08,44679,20658,W4,6655,,,Bills are unusually high this month.
+21,2025-08,44679,20658,,,Food,5518,Bills are unusually high this month.
+21,2025-08,44679,20658,,,Travel,6314,Bills are unusually high this month.
+21,2025-08,44679,20658,,,Bills,2295,Bills are unusually high this month.
+21,2025-08,44679,20658,,,Shopping,7517,Bills are unusually high this month.
+21,2025-08,44679,20658,,,Entertainment,3390,Bills are unusually high this month.
+21,2025-08,44679,20658,,,Misc,5920,Bills are unusually high this month.
+21,2025-09,45519,20480,W1,4249,,,Entertainment spending increased 18%.
+21,2025-09,45519,20480,W2,6949,,,Entertainment spending increased 18%.
+21,2025-09,45519,20480,W3,4585,,,Entertainment spending increased 18%.
+21,2025-09,45519,20480,W4,5350,,,Entertainment spending increased 18%.
+21,2025-09,45519,20480,,,Food,2321,Entertainment spending increased 18%.
+21,2025-09,45519,20480,,,Travel,1946,Entertainment spending increased 18%.
+21,2025-09,45519,20480,,,Bills,3506,Entertainment spending increased 18%.
+21,2025-09,45519,20480,,,Shopping,2077,Entertainment spending increased 18%.
+21,2025-09,45519,20480,,,Entertainment,2417,Entertainment spending increased 18%.
+21,2025-09,45519,20480,,,Misc,3782,Entertainment spending increased 18%.
+21,2025-10,51536,21250,W1,5008,,,Travel spending is stable.
+21,2025-10,51536,21250,W2,5156,,,Travel spending is stable.
+21,2025-10,51536,21250,W3,4027,,,Travel spending is stable.
+21,2025-10,51536,21250,W4,5238,,,Travel spending is stable.
+21,2025-10,51536,21250,,,Food,7351,Travel spending is stable.
+21,2025-10,51536,21250,,,Travel,1019,Travel spending is stable.
+21,2025-10,51536,21250,,,Bills,6622,Travel spending is stable.
+21,2025-10,51536,21250,,,Shopping,1925,Travel spending is stable.
+21,2025-10,51536,21250,,,Entertainment,5051,Travel spending is stable.
+21,2025-10,51536,21250,,,Misc,5704,Travel spending is stable.
+21,2025-11,45935,22996,W1,4186,,,Good job! Your spending is controlled.
+21,2025-11,45935,22996,W2,4672,,,Good job! Your spending is controlled.
+21,2025-11,45935,22996,W3,6922,,,Good job! Your spending is controlled.
+21,2025-11,45935,22996,W4,5901,,,Good job! Your spending is controlled.
+21,2025-11,45935,22996,,,Food,7786,Good job! Your spending is controlled.
+21,2025-11,45935,22996,,,Travel,1332,Good job! Your spending is controlled.
+21,2025-11,45935,22996,,,Bills,7983,Good job! Your spending is controlled.
+21,2025-11,45935,22996,,,Shopping,6167,Good job! Your spending is controlled.
+21,2025-11,45935,22996,,,Entertainment,7574,Good job! Your spending is controlled.
+21,2025-11,45935,22996,,,Misc,4744,Good job! Your spending is controlled.
+22,2025-06,51053,20403,W1,5061,,,You're overspending on Food this month.
+22,2025-06,51053,20403,W2,6214,,,You're overspending on Food this month.
+22,2025-06,51053,20403,W3,5709,,,You're overspending on Food this month.
+22,2025-06,51053,20403,W4,4186,,,You're overspending on Food this month.
+22,2025-06,51053,20403,,,Food,1699,You're overspending on Food this month.
+22,2025-06,51053,20403,,,Travel,5938,You're overspending on Food this month.
+22,2025-06,51053,20403,,,Bills,5158,You're overspending on Food this month.
+22,2025-06,51053,20403,,,Shopping,5966,You're overspending on Food this month.
+22,2025-06,51053,20403,,,Entertainment,2236,You're overspending on Food this month.
+22,2025-06,51053,20403,,,Misc,7594,You're overspending on Food this month.
+22,2025-07,47794,19524,W1,4417,,,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,W2,5545,,,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,W3,5630,,,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,W4,5721,,,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,,,Food,2028,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,,,Travel,7631,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,,,Bills,3858,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,,,Shopping,1810,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,,,Entertainment,3375,Travel costs increased by 12% this month.
+22,2025-07,47794,19524,,,Misc,4878,Travel costs increased by 12% this month.
+22,2025-08,51008,20884,W1,5433,,,Bills are unusually high this month.
+22,2025-08,51008,20884,W2,6760,,,Bills are unusually high this month.
+22,2025-08,51008,20884,W3,4688,,,Bills are unusually high this month.
+22,2025-08,51008,20884,W4,6543,,,Bills are unusually high this month.
+22,2025-08,51008,20884,,,Food,5750,Bills are unusually high this month.
+22,2025-08,51008,20884,,,Travel,7539,Bills are unusually high this month.
+22,2025-08,51008,20884,,,Bills,2587,Bills are unusually high this month.
+22,2025-08,51008,20884,,,Shopping,1139,Bills are unusually high this month.
+22,2025-08,51008,20884,,,Entertainment,6888,Bills are unusually high this month.
+22,2025-08,51008,20884,,,Misc,5418,Bills are unusually high this month.
+22,2025-09,44052,19296,W1,5509,,,Entertainment spending increased 18%.
+22,2025-09,44052,19296,W2,5357,,,Entertainment spending increased 18%.
+22,2025-09,44052,19296,W3,5630,,,Entertainment spending increased 18%.
+22,2025-09,44052,19296,W4,4487,,,Entertainment spending increased 18%.
+22,2025-09,44052,19296,,,Food,4363,Entertainment spending increased 18%.
+22,2025-09,44052,19296,,,Travel,1046,Entertainment spending increased 18%.
+22,2025-09,44052,19296,,,Bills,7340,Entertainment spending increased 18%.
+22,2025-09,44052,19296,,,Shopping,2485,Entertainment spending increased 18%.
+22,2025-09,44052,19296,,,Entertainment,2076,Entertainment spending increased 18%.
+22,2025-09,44052,19296,,,Misc,5276,Entertainment spending increased 18%.
+22,2025-10,50116,24868,W1,4739,,,Travel spending is stable.
+22,2025-10,50116,24868,W2,5486,,,Travel spending is stable.
+22,2025-10,50116,24868,W3,4446,,,Travel spending is stable.
+22,2025-10,50116,24868,W4,4102,,,Travel spending is stable.
+22,2025-10,50116,24868,,,Food,4812,Travel spending is stable.
+22,2025-10,50116,24868,,,Travel,4270,Travel spending is stable.
+22,2025-10,50116,24868,,,Bills,4108,Travel spending is stable.
+22,2025-10,50116,24868,,,Shopping,3275,Travel spending is stable.
+22,2025-10,50116,24868,,,Entertainment,6140,Travel spending is stable.
+22,2025-10,50116,24868,,,Misc,3133,Travel spending is stable.
+22,2025-11,42363,24586,W1,5273,,,Good job! Your spending is controlled.
+22,2025-11,42363,24586,W2,6545,,,Good job! Your spending is controlled.
+22,2025-11,42363,24586,W3,4027,,,Good job! Your spending is controlled.
+22,2025-11,42363,24586,W4,6168,,,Good job! Your spending is controlled.
+22,2025-11,42363,24586,,,Food,7979,Good job! Your spending is controlled.
+22,2025-11,42363,24586,,,Travel,985,Good job! Your spending is controlled.
+22,2025-11,42363,24586,,,Bills,3290,Good job! Your spending is controlled.
+22,2025-11,42363,24586,,,Shopping,4642,Good job! Your spending is controlled.
+22,2025-11,42363,24586,,,Entertainment,6662,Good job! Your spending is controlled.
+22,2025-11,42363,24586,,,Misc,4152,Good job! Your spending is controlled.
+23,2025-06,45173,23039,W1,5231,,,You're overspending on Food this month.
+23,2025-06,45173,23039,W2,5019,,,You're overspending on Food this month.
+23,2025-06,45173,23039,W3,6308,,,You're overspending on Food this month.
+23,2025-06,45173,23039,W4,6658,,,You're overspending on Food this month.
+23,2025-06,45173,23039,,,Food,3784,You're overspending on Food this month.
+23,2025-06,45173,23039,,,Travel,6263,You're overspending on Food this month.
+23,2025-06,45173,23039,,,Bills,3035,You're overspending on Food this month.
+23,2025-06,45173,23039,,,Shopping,4021,You're overspending on Food this month.
+23,2025-06,45173,23039,,,Entertainment,7586,You're overspending on Food this month.
+23,2025-06,45173,23039,,,Misc,7891,You're overspending on Food this month.
+23,2025-07,48686,18351,W1,4374,,,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,W2,4365,,,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,W3,4970,,,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,W4,6639,,,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,,,Food,991,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,,,Travel,4535,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,,,Bills,3734,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,,,Shopping,2425,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,,,Entertainment,7081,Travel costs increased by 12% this month.
+23,2025-07,48686,18351,,,Misc,2430,Travel costs increased by 12% this month.
+23,2025-08,42279,25628,W1,4098,,,Bills are unusually high this month.
+23,2025-08,42279,25628,W2,6600,,,Bills are unusually high this month.
+23,2025-08,42279,25628,W3,6893,,,Bills are unusually high this month.
+23,2025-08,42279,25628,W4,4221,,,Bills are unusually high this month.
+23,2025-08,42279,25628,,,Food,4723,Bills are unusually high this month.
+23,2025-08,42279,25628,,,Travel,7608,Bills are unusually high this month.
+23,2025-08,42279,25628,,,Bills,6795,Bills are unusually high this month.
+23,2025-08,42279,25628,,,Shopping,1627,Bills are unusually high this month.
+23,2025-08,42279,25628,,,Entertainment,2231,Bills are unusually high this month.
+23,2025-08,42279,25628,,,Misc,4489,Bills are unusually high this month.
+23,2025-09,45285,19930,W1,6490,,,Entertainment spending increased 18%.
+23,2025-09,45285,19930,W2,4296,,,Entertainment spending increased 18%.
+23,2025-09,45285,19930,W3,4843,,,Entertainment spending increased 18%.
+23,2025-09,45285,19930,W4,4642,,,Entertainment spending increased 18%.
+23,2025-09,45285,19930,,,Food,3450,Entertainment spending increased 18%.
+23,2025-09,45285,19930,,,Travel,4790,Entertainment spending increased 18%.
+23,2025-09,45285,19930,,,Bills,2083,Entertainment spending increased 18%.
+23,2025-09,45285,19930,,,Shopping,2114,Entertainment spending increased 18%.
+23,2025-09,45285,19930,,,Entertainment,2982,Entertainment spending increased 18%.
+23,2025-09,45285,19930,,,Misc,3338,Entertainment spending increased 18%.
+23,2025-10,49618,24440,W1,4461,,,Travel spending is stable.
+23,2025-10,49618,24440,W2,5897,,,Travel spending is stable.
+23,2025-10,49618,24440,W3,5002,,,Travel spending is stable.
+23,2025-10,49618,24440,W4,4805,,,Travel spending is stable.
+23,2025-10,49618,24440,,,Food,2577,Travel spending is stable.
+23,2025-10,49618,24440,,,Travel,6178,Travel spending is stable.
+23,2025-10,49618,24440,,,Bills,2436,Travel spending is stable.
+23,2025-10,49618,24440,,,Shopping,1676,Travel spending is stable.
+23,2025-10,49618,24440,,,Entertainment,7663,Travel spending is stable.
+23,2025-10,49618,24440,,,Misc,4960,Travel spending is stable.
+23,2025-11,47020,21940,W1,5696,,,Good job! Your spending is controlled.
+23,2025-11,47020,21940,W2,5968,,,Good job! Your spending is controlled.
+23,2025-11,47020,21940,W3,5357,,,Good job! Your spending is controlled.
+23,2025-11,47020,21940,W4,4540,,,Good job! Your spending is controlled.
+23,2025-11,47020,21940,,,Food,2835,Good job! Your spending is controlled.
+23,2025-11,47020,21940,,,Travel,7466,Good job! Your spending is controlled.
+23,2025-11,47020,21940,,,Bills,2645,Good job! Your spending is controlled.
+23,2025-11,47020,21940,,,Shopping,1916,Good job! Your spending is controlled.
+23,2025-11,47020,21940,,,Entertainment,2441,Good job! Your spending is controlled.
+23,2025-11,47020,21940,,,Misc,2706,Good job! Your spending is controlled.
+24,2025-06,46477,24367,W1,6625,,,You're overspending on Food this month.
+24,2025-06,46477,24367,W2,4696,,,You're overspending on Food this month.
+24,2025-06,46477,24367,W3,5798,,,You're overspending on Food this month.
+24,2025-06,46477,24367,W4,4195,,,You're overspending on Food this month.
+24,2025-06,46477,24367,,,Food,5486,You're overspending on Food this month.
+24,2025-06,46477,24367,,,Travel,2929,You're overspending on Food this month.
+24,2025-06,46477,24367,,,Bills,1352,You're overspending on Food this month.
+24,2025-06,46477,24367,,,Shopping,7644,You're overspending on Food this month.
+24,2025-06,46477,24367,,,Entertainment,2730,You're overspending on Food this month.
+24,2025-06,46477,24367,,,Misc,6119,You're overspending on Food this month.
+24,2025-07,51297,21393,W1,5044,,,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,W2,5556,,,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,W3,5050,,,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,W4,6751,,,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,,,Food,3175,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,,,Travel,5387,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,,,Bills,1588,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,,,Shopping,7654,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,,,Entertainment,2428,Travel costs increased by 12% this month.
+24,2025-07,51297,21393,,,Misc,1615,Travel costs increased by 12% this month.
+24,2025-08,44333,22669,W1,5461,,,Bills are unusually high this month.
+24,2025-08,44333,22669,W2,4131,,,Bills are unusually high this month.
+24,2025-08,44333,22669,W3,5529,,,Bills are unusually high this month.
+24,2025-08,44333,22669,W4,6676,,,Bills are unusually high this month.
+24,2025-08,44333,22669,,,Food,3301,Bills are unusually high this month.
+24,2025-08,44333,22669,,,Travel,5319,Bills are unusually high this month.
+24,2025-08,44333,22669,,,Bills,6196,Bills are unusually high this month.
+24,2025-08,44333,22669,,,Shopping,3983,Bills are unusually high this month.
+24,2025-08,44333,22669,,,Entertainment,2337,Bills are unusually high this month.
+24,2025-08,44333,22669,,,Misc,6051,Bills are unusually high this month.
+24,2025-09,44479,22049,W1,4458,,,Entertainment spending increased 18%.
+24,2025-09,44479,22049,W2,4089,,,Entertainment spending increased 18%.
+24,2025-09,44479,22049,W3,4254,,,Entertainment spending increased 18%.
+24,2025-09,44479,22049,W4,6017,,,Entertainment spending increased 18%.
+24,2025-09,44479,22049,,,Food,1092,Entertainment spending increased 18%.
+24,2025-09,44479,22049,,,Travel,1359,Entertainment spending increased 18%.
+24,2025-09,44479,22049,,,Bills,2797,Entertainment spending increased 18%.
+24,2025-09,44479,22049,,,Shopping,7226,Entertainment spending increased 18%.
+24,2025-09,44479,22049,,,Entertainment,924,Entertainment spending increased 18%.
+24,2025-09,44479,22049,,,Misc,2709,Entertainment spending increased 18%.
+24,2025-10,49083,20698,W1,4009,,,Travel spending is stable.
+24,2025-10,49083,20698,W2,4492,,,Travel spending is stable.
+24,2025-10,49083,20698,W3,5200,,,Travel spending is stable.
+24,2025-10,49083,20698,W4,5794,,,Travel spending is stable.
+24,2025-10,49083,20698,,,Food,2210,Travel spending is stable.
+24,2025-10,49083,20698,,,Travel,3048,Travel spending is stable.
+24,2025-10,49083,20698,,,Bills,4688,Travel spending is stable.
+24,2025-10,49083,20698,,,Shopping,5118,Travel spending is stable.
+24,2025-10,49083,20698,,,Entertainment,4402,Travel spending is stable.
+24,2025-10,49083,20698,,,Misc,1996,Travel spending is stable.
+24,2025-11,46608,19421,W1,4803,,,Good job! Your spending is controlled.
+24,2025-11,46608,19421,W2,6474,,,Good job! Your spending is controlled.
+24,2025-11,46608,19421,W3,4158,,,Good job! Your spending is controlled.
+24,2025-11,46608,19421,W4,5014,,,Good job! Your spending is controlled.
+24,2025-11,46608,19421,,,Food,6783,Good job! Your spending is controlled.
+24,2025-11,46608,19421,,,Travel,5241,Good job! Your spending is controlled.
+24,2025-11,46608,19421,,,Bills,3214,Good job! Your spending is controlled.
+24,2025-11,46608,19421,,,Shopping,5544,Good job! Your spending is controlled.
+24,2025-11,46608,19421,,,Entertainment,7769,Good job! Your spending is controlled.
+24,2025-11,46608,19421,,,Misc,5201,Good job! Your spending is controlled.
+25,2025-06,48959,21299,W1,4268,,,You're overspending on Food this month.
+25,2025-06,48959,21299,W2,4206,,,You're overspending on Food this month.
+25,2025-06,48959,21299,W3,6645,,,You're overspending on Food this month.
+25,2025-06,48959,21299,W4,6744,,,You're overspending on Food this month.
+25,2025-06,48959,21299,,,Food,806,You're overspending on Food this month.
+25,2025-06,48959,21299,,,Travel,1354,You're overspending on Food this month.
+25,2025-06,48959,21299,,,Bills,1551,You're overspending on Food this month.
+25,2025-06,48959,21299,,,Shopping,5891,You're overspending on Food this month.
+25,2025-06,48959,21299,,,Entertainment,3001,You're overspending on Food this month.
+25,2025-06,48959,21299,,,Misc,5421,You're overspending on Food this month.
+25,2025-07,48393,20436,W1,6442,,,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,W2,5074,,,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,W3,6471,,,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,W4,5278,,,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,,,Food,4494,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,,,Travel,5924,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,,,Bills,1056,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,,,Shopping,3928,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,,,Entertainment,947,Travel costs increased by 12% this month.
+25,2025-07,48393,20436,,,Misc,6953,Travel costs increased by 12% this month.
+25,2025-08,48156,24910,W1,4324,,,Bills are unusually high this month.
+25,2025-08,48156,24910,W2,5541,,,Bills are unusually high this month.
+25,2025-08,48156,24910,W3,6576,,,Bills are unusually high this month.
+25,2025-08,48156,24910,W4,5905,,,Bills are unusually high this month.
+25,2025-08,48156,24910,,,Food,5221,Bills are unusually high this month.
+25,2025-08,48156,24910,,,Travel,5851,Bills are unusually high this month.
+25,2025-08,48156,24910,,,Bills,7270,Bills are unusually high this month.
+25,2025-08,48156,24910,,,Shopping,7080,Bills are unusually high this month.
+25,2025-08,48156,24910,,,Entertainment,4445,Bills are unusually high this month.
+25,2025-08,48156,24910,,,Misc,5257,Bills are unusually high this month.
+25,2025-09,42790,24187,W1,5081,,,Entertainment spending increased 18%.
+25,2025-09,42790,24187,W2,5674,,,Entertainment spending increased 18%.
+25,2025-09,42790,24187,W3,5900,,,Entertainment spending increased 18%.
+25,2025-09,42790,24187,W4,5089,,,Entertainment spending increased 18%.
+25,2025-09,42790,24187,,,Food,7458,Entertainment spending increased 18%.
+25,2025-09,42790,24187,,,Travel,1646,Entertainment spending increased 18%.
+25,2025-09,42790,24187,,,Bills,5230,Entertainment spending increased 18%.
+25,2025-09,42790,24187,,,Shopping,865,Entertainment spending increased 18%.
+25,2025-09,42790,24187,,,Entertainment,1394,Entertainment spending increased 18%.
+25,2025-09,42790,24187,,,Misc,5211,Entertainment spending increased 18%.
+25,2025-10,42917,25070,W1,4019,,,Travel spending is stable.
+25,2025-10,42917,25070,W2,4781,,,Travel spending is stable.
+25,2025-10,42917,25070,W3,5707,,,Travel spending is stable.
+25,2025-10,42917,25070,W4,6907,,,Travel spending is stable.
+25,2025-10,42917,25070,,,Food,7373,Travel spending is stable.
+25,2025-10,42917,25070,,,Travel,6970,Travel spending is stable.
+25,2025-10,42917,25070,,,Bills,1223,Travel spending is stable.
+25,2025-10,42917,25070,,,Shopping,5714,Travel spending is stable.
+25,2025-10,42917,25070,,,Entertainment,3408,Travel spending is stable.
+25,2025-10,42917,25070,,,Misc,4993,Travel spending is stable.
+25,2025-11,51825,23088,W1,6088,,,Good job! Your spending is controlled.
+25,2025-11,51825,23088,W2,4450,,,Good job! Your spending is controlled.
+25,2025-11,51825,23088,W3,5613,,,Good job! Your spending is controlled.
+25,2025-11,51825,23088,W4,4041,,,Good job! Your spending is controlled.
+25,2025-11,51825,23088,,,Food,1926,Good job! Your spending is controlled.
+25,2025-11,51825,23088,,,Travel,7245,Good job! Your spending is controlled.
+25,2025-11,51825,23088,,,Bills,5616,Good job! Your spending is controlled.
+25,2025-11,51825,23088,,,Shopping,3428,Good job! Your spending is controlled.
+25,2025-11,51825,23088,,,Entertainment,987,Good job! Your spending is controlled.
+25,2025-11,51825,23088,,,Misc,3340,Good job! Your spending is controlled.
